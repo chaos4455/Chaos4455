@@ -3,6 +3,12 @@
 ### 🎯 Objetivo Profissional
 Sou um profissional de TI com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
 
+### 📈 Estatísticas no GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
+
+
 Minha especialização reside em garantir **alta disponibilidade** 🔄, **escalabilidade** 📈 e **recuperação de desastres** 💪 em ambientes complexos. Estou sempre em busca de oportunidades que me permitam aplicar meus conhecimentos e contribuir para a evolução das infraestruturas tecnológicas da sua empresa.
 
 ---
@@ -68,19 +74,6 @@ Minha especialização reside em garantir **alta disponibilidade** 🔄, **escal
 - **Integração Contínua e Deploy**: Trabalhei em soluções de CI/CD, utilizando **GitHub Actions** ⚙️ e **Jenkins** 🏗️ para automatizar o processo de integração e entrega de software.
 - **Colaboração e Trabalho em Equipe**: Participei de projetos colaborativos, trabalhando em equipe para desenvolver soluções que atendem a requisitos complexos e diversos.
 
----
-
-### 📈 Estatísticas no GitHub
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
-
----
-
-### 📈 Estatísticas no GitHub
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
 
 ---
 
