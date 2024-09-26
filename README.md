@@ -1,64 +1,79 @@
 # Elias Andrade 🚀
 
 ### 🎯 Objetivo Profissional
-Sou um profissional de TI com mais de 14 anos de experiência diversificada em **administração de redes**, **infraestrutura** e **desenvolvimento de software**. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados**, **nuvem**, **on-premise** e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
+Sou um profissional de TI com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
 
-Minha especialização reside em garantir **alta disponibilidade**, **escalabilidade** e **recuperação de desastres** em ambientes complexos. Estou sempre em busca de oportunidades que me permitam aplicar meus conhecimentos e contribuir para a evolução das infraestruturas tecnológicas da sua empresa.
+Minha especialização reside em garantir **alta disponibilidade** 🔄, **escalabilidade** 📈 e **recuperação de desastres** 💪 em ambientes complexos. Estou sempre em busca de oportunidades que me permitam aplicar meus conhecimentos e contribuir para a evolução das infraestruturas tecnológicas da sua empresa.
+
+---
 
 ### 🛠️ Habilidades e Competências
 
-- **Administração de Redes**: Experiência em configuração, monitoramento e manutenção de redes de dados, garantindo segurança e desempenho.
-  
-- **Infraestrutura de TI**: Profundo entendimento de ambientes de TI, incluindo servidores, storage e soluções em nuvem. Capacidade de implementar e gerenciar infraestrutura para suportar aplicações críticas.
+- **Administração de Redes** ![Administração de Redes](https://img.shields.io/badge/Networking-Expert-3DDC84?style=flat-square&logo=network-wired)  
+  Experiência em configuração, monitoramento e manutenção de redes de dados, garantindo segurança 🔐 e desempenho.
 
-- **DevOps e Automação**: Especialização em práticas de DevOps, incluindo integração e entrega contínuas (CI/CD), automação de tarefas com ferramentas como **Ansible**, **Terraform** e **Docker**.
+- **Infraestrutura de TI** ![Infraestrutura de TI](https://img.shields.io/badge/Infrastructure-Advanced-FFBB33?style=flat-square&logo=cloud)  
+  Profundo entendimento de ambientes de TI, incluindo servidores, storage e soluções em nuvem. Capacidade de implementar e gerenciar infraestrutura para suportar aplicações críticas.
 
-- **Desenvolvimento de Software**: Habilidade em desenvolvimento back-end e full stack utilizando **Python**, **Flask**, **Django** e tecnologias de microserviços. Compreensão de princípios de **Domain-Driven Design (DDD)** e **Clean Architecture**.
+- **DevOps e Automação** ![DevOps](https://img.shields.io/badge/DevOps-Expert-FF5500?style=flat-square&logo=dev)  
+  Especialização em práticas de DevOps, incluindo integração e entrega contínuas (CI/CD) 🔁, automação de tarefas com ferramentas como **Ansible**, **Terraform** e **Docker**.
 
-- **Gerenciamento de Projetos**: Experiência na condução de projetos de TI do início ao fim, incluindo levantamento de requisitos, planejamento, execução e monitoramento.
+- **Desenvolvimento de Software** ![Python](https://img.shields.io/badge/Python-BackEnd%20&%20FullStack-1DA1F2?style=flat-square&logo=python)  
+  Habilidade em desenvolvimento back-end e full stack utilizando **Python**, **Flask**, **Django** e tecnologias de microserviços. Compreensão de princípios de **Domain-Driven Design (DDD)** e **Clean Architecture**.
 
-- **Suporte Técnico**: Vasta experiência em suporte técnico e help desk, garantindo a satisfação do cliente e a resolução eficiente de problemas.
+- **Gerenciamento de Projetos** ![Gerenciamento de Projetos](https://img.shields.io/badge/Project%20Management-Intermediate-00BFFF?style=flat-square&logo=project-diagram)  
+  Experiência na condução de projetos de TI do início ao fim, incluindo levantamento de requisitos, planejamento, execução e monitoramento.
+
+- **Suporte Técnico** ![Suporte Técnico](https://img.shields.io/badge/Technical%20Support-Expert-FF007F?style=flat-square&logo=headset)  
+  Vasta experiência em suporte técnico e help desk, garantindo a satisfação do cliente e a resolução eficiente de problemas.
 
 ---
 
 ### 📅 Trajetória Profissional
 
-#### **2010 - 2017: Suporte Técnico e Help Desk**
-Minha jornada na área de TI começou em **2010**, quando atuei em **suporte técnico** e **help desk**. Durante esses primeiros anos, desenvolvi habilidades essenciais, incluindo:
+#### **2010 - 2017: Suporte Técnico e Help Desk** 
+🔹 Minha jornada na área de TI começou em **2010**, quando atuei em **suporte técnico** e **help desk**. Durante esses primeiros anos, desenvolvi habilidades essenciais, incluindo:
 
 - **Atendimento ao Cliente**: Aprimorei minha capacidade de comunicação e resolução de problemas, proporcionando suporte técnico para usuários finais e equipes de TI.
 - **Gestão de Incidentes**: Trabalhei em gestão de chamados, documentação e resolução de incidentes, utilizando ferramentas de ticketing para monitorar e acompanhar as solicitações.
 - **Infraestrutura Básica**: Comecei a adquirir conhecimentos básicos sobre redes, servidores e segurança da informação, criando uma base sólida para minha futura carreira em infraestrutura.
 
 #### **2013 - 2017: Evolução em Infraestrutura**
-A partir de **2013**, comecei a me aprofundar em **infraestrutura de TI**, participando de cursos e treinamentos focados em:
+🔹 A partir de **2013**, comecei a me aprofundar em **infraestrutura de TI**, participando de cursos e treinamentos focados em:
 
 - **Redes e Segurança**: Estudei conceitos de redes, protocolos e segurança, o que me permitiu entender melhor como funcionam os ambientes de TI.
-- **Administração de Sistemas**: Ganhei experiência prática com sistemas operacionais Windows e Linux, aprendendo sobre administração e manutenção de servidores.
+- **Administração de Sistemas**: Ganhei experiência prática com sistemas operacionais Windows e Linux 🐧, aprendendo sobre administração e manutenção de servidores.
 - **Suporte Avançado**: Assumi responsabilidades adicionais, oferecendo suporte técnico em níveis mais altos, incluindo diagnósticos e correções de problemas em ambientes mais complexos.
 
 #### **2018: Especialização em Infraestrutura, Python e DevOps**
-Em **2018**, decidi intensificar meus estudos em **infraestrutura** e **tecnologias emergentes**:
+🔹 Em **2018**, decidi intensificar meus estudos em **infraestrutura** e **tecnologias emergentes**:
 
-- **Docker e Kubernetes**: Iniciei meu aprendizado em **Docker** e **Kubernetes**, compreendendo os conceitos de contêineres e orquestração, o que se tornou fundamental para minha transição para DevOps.
+- **Docker e Kubernetes**: Iniciei meu aprendizado em **Docker** 🐳 e **Kubernetes** ☸️, compreendendo os conceitos de contêineres e orquestração, o que se tornou fundamental para minha transição para DevOps.
 - **Python**: Comecei a estudar Python, entendendo suas aplicações em automação e desenvolvimento de scripts para tarefas repetitivas, aumentando minha eficiência operacional.
 - **DevOps**: Comecei a adotar práticas de **DevOps**, aplicando conceitos de integração e entrega contínua em pequenos projetos pessoais.
 
 #### **2019 - 2023: Administração de Redes e Prática em DevOps**
-De **2019** até **2023**, atuei como **Administrador de Redes**, onde:
+🔹 De **2019** até **2023**, atuei como **Administrador de Redes**, onde:
 
 - **Gestão de Infraestrutura**: Assumi a administração de redes complexas, garantindo a conectividade e a segurança dos sistemas de informação.
-- **Projetos de Automação**: Trabalhei em pequenos projetos de automação utilizando **Ansible** e **Terraform**, melhorando processos de provisionamento e configuração.
+- **Projetos de Automação**: Trabalhei em pequenos projetos de automação utilizando **Ansible** 🤖 e **Terraform**, melhorando processos de provisionamento e configuração.
 - **Desenvolvimento de Scripts**: Utilizei Python para desenvolver scripts de automação, integrando soluções que otimizavam tarefas administrativas e operacionais.
 - **Estudo Contínuo**: Continuei a estudar e praticar conceitos de **DevOps**, como CI/CD, aplicando-os em ambientes de produção e melhorando a eficiência operacional.
 
 #### **2023 - Presente: Foco em Arquitetura de Sistemas e Desenvolvimento**
-De **final de 2023** até agora (setembro de 2024), dediquei-me integralmente ao estudo e à prática em **arquitetura de sistemas**, **Python**, **back-end**, **full stack** e **microserviços**:
+🔹 De **final de 2023** até agora (setembro de 2024), dediquei-me integralmente ao estudo e à prática em **arquitetura de sistemas**, **Python**, **back-end**, **full stack** e **microserviços**:
 
 - **Desenvolvimento de Back-end e Full Stack**: Aprofundei meus conhecimentos em desenvolvimento back-end e full stack, utilizando frameworks como **Flask** e **Django**, e implementando projetos com arquiteturas limpas e práticas de **Domain-Driven Design (DDD)**.
 - **Microserviços e Clean Architecture**: Estudei e implementei padrões de arquitetura de microserviços e clean architecture em projetos, focando na escalabilidade e manutenibilidade.
-- **Integração Contínua e Deploy**: Trabalhei em soluções de CI/CD, utilizando **GitHub Actions** e **Jenkins** para automatizar o processo de integração e entrega de software.
+- **Integração Contínua e Deploy**: Trabalhei em soluções de CI/CD, utilizando **GitHub Actions** ⚙️ e **Jenkins** 🏗️ para automatizar o processo de integração e entrega de software.
 - **Colaboração e Trabalho em Equipe**: Participei de projetos colaborativos, trabalhando em equipe para desenvolver soluções que atendem a requisitos complexos e diversos.
+
+---
+
+### 📈 Estatísticas no GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
 
 ---
 
