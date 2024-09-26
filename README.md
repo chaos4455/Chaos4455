@@ -5,11 +5,53 @@ Sou um profissional de TI com vasta experiência em **administração de redes**
 
 Possuo uma capacidade rápida de estruturar, definir, implantar e gerenciar ambientes de infraestrutura, focando em **aplicações**, **desenvolvimento de código**, **migrações** e **sustentação**. Estou aberto a oportunidades desafiadoras como **Analista de DevOps**, **Administrador de Infraestrutura** ou **Especialista em Help Desk/Service Desk**, áreas onde acumulei vasta experiência e entregas em centenas de projetos ao longo dos últimos 14 anos.
 
-## 📈 **Estatísticas no GitHub**
+---
+
+### 📅 Trajetória Profissional
+
+#### **2010 - 2017: Suporte Técnico e Help Desk**
+Minha jornada na área de TI começou em **2010**, quando atuei em **suporte técnico** e **help desk**. Durante esses primeiros anos, desenvolvi habilidades essenciais, incluindo:
+
+- **Atendimento ao Cliente**: Aprimorei minha capacidade de comunicação e resolução de problemas, proporcionando suporte técnico para usuários finais e equipes de TI.
+- **Gestão de Incidentes**: Trabalhei em gestão de chamados, documentação e resolução de incidentes, utilizando ferramentas de ticketing para monitorar e acompanhar as solicitações.
+- **Infraestrutura Básica**: Comecei a adquirir conhecimentos básicos sobre redes, servidores e segurança da informação, criando uma base sólida para minha futura carreira em infraestrutura.
+
+#### **2013 - 2017: Evolução em Infraestrutura**
+A partir de **2013**, comecei a me aprofundar em **infraestrutura de TI**, participando de cursos e treinamentos focados em:
+
+- **Redes e Segurança**: Estudei conceitos de redes, protocolos e segurança, o que me permitiu entender melhor como funcionam os ambientes de TI.
+- **Administração de Sistemas**: Ganhei experiência prática com sistemas operacionais Windows e Linux, aprendendo sobre administração e manutenção de servidores.
+- **Suporte Avançado**: Assumi responsabilidades adicionais, oferecendo suporte técnico em níveis mais altos, incluindo diagnósticos e correções de problemas em ambientes mais complexos.
+
+#### **2018: Especialização em Infraestrutura, Python e DevOps**
+Em **2018**, decidi intensificar meus estudos em **infraestrutura** e **tecnologias emergentes**:
+
+- **Docker e Kubernetes**: Iniciei meu aprendizado em **Docker** e **Kubernetes**, compreendendo os conceitos de contêineres e orquestração, o que se tornou fundamental para minha transição para DevOps.
+- **Python**: Comecei a estudar Python, entendendo suas aplicações em automação e desenvolvimento de scripts para tarefas repetitivas, aumentando minha eficiência operacional.
+- **DevOps**: Comecei a adotar práticas de **DevOps**, aplicando conceitos de integração e entrega contínua em pequenos projetos pessoais.
+
+#### **2019 - 2023: Administração de Redes e Prática em DevOps**
+De **2019** até **2023**, atuei como **Administrador de Redes**, onde:
+
+- **Gestão de Infraestrutura**: Assumi a administração de redes complexas, garantindo a conectividade e a segurança dos sistemas de informação.
+- **Projetos de Automação**: Trabalhei em pequenos projetos de automação utilizando **Ansible** e **Terraform**, melhorando processos de provisionamento e configuração.
+- **Desenvolvimento de Scripts**: Utilizei Python para desenvolver scripts de automação, integrando soluções que otimizavam tarefas administrativas e operacionais.
+- **Estudo Contínuo**: Continuei a estudar e praticar conceitos de **DevOps**, como CI/CD, aplicando-os em ambientes de produção e melhorando a eficiência operacional.
+
+#### **2023 - Presente: Foco em Arquitetura de Sistemas e Desenvolvimento**
+De **final de 2023** até agora (setembro de 2024), dediquei-me integralmente ao estudo e à prática em **arquitetura de sistemas**, **Python**, **back-end**, **full stack** e **microserviços**:
+
+- **Desenvolvimento de Back-end e Full Stack**: Aprofundei meus conhecimentos em desenvolvimento back-end e full stack, utilizando frameworks como **Flask** e **Django**, e implementando projetos com arquiteturas limpas e práticas de **Domain-Driven Design (DDD)**.
+- **Microserviços e Clean Architecture**: Estudei e implementei padrões de arquitetura de microserviços e clean architecture em projetos, focando na escalabilidade e manutenibilidade.
+- **Integração Contínua e Deploy**: Trabalhei em soluções de CI/CD, utilizando **GitHub Actions** e **Jenkins** para automatizar o processo de integração e entrega de software.
+- **Colaboração e Trabalho em Equipe**: Participei de projetos colaborativos, trabalhando em equipe para desenvolver soluções que atendem a requisitos complexos e diversos.
+
+---
+
+### 📈 Estatísticas no GitHub
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
-
 
 ---
 
