@@ -1,9 +1,23 @@
 # Elias Andrade 🚀
 
 ### 🎯 Objetivo Profissional
-Sou um profissional de TI com vasta experiência em **administração de redes** e **infraestrutura**, tanto virtualizada quanto em nuvem. Minha especialização reside em garantir **alta disponibilidade**, **escalabilidade** e **recuperação de desastres** em ambientes complexos, sejam eles 100% em nuvem, on-premise ou híbridos. Estou buscando oportunidades para aplicar meus conhecimentos em prol da sua empresa.
+Sou um profissional de TI com mais de 14 anos de experiência diversificada em **administração de redes**, **infraestrutura** e **desenvolvimento de software**. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados**, **nuvem**, **on-premise** e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
 
-Possuo uma capacidade rápida de estruturar, definir, implantar e gerenciar ambientes de infraestrutura, focando em **aplicações**, **desenvolvimento de código**, **migrações** e **sustentação**. Estou aberto a oportunidades desafiadoras como **Analista de DevOps**, **Administrador de Infraestrutura** ou **Especialista em Help Desk/Service Desk**, áreas onde acumulei vasta experiência e entregas em centenas de projetos ao longo dos últimos 14 anos.
+Minha especialização reside em garantir **alta disponibilidade**, **escalabilidade** e **recuperação de desastres** em ambientes complexos. Estou sempre em busca de oportunidades que me permitam aplicar meus conhecimentos e contribuir para a evolução das infraestruturas tecnológicas da sua empresa.
+
+### 🛠️ Habilidades e Competências
+
+- **Administração de Redes**: Experiência em configuração, monitoramento e manutenção de redes de dados, garantindo segurança e desempenho.
+  
+- **Infraestrutura de TI**: Profundo entendimento de ambientes de TI, incluindo servidores, storage e soluções em nuvem. Capacidade de implementar e gerenciar infraestrutura para suportar aplicações críticas.
+
+- **DevOps e Automação**: Especialização em práticas de DevOps, incluindo integração e entrega contínuas (CI/CD), automação de tarefas com ferramentas como **Ansible**, **Terraform** e **Docker**.
+
+- **Desenvolvimento de Software**: Habilidade em desenvolvimento back-end e full stack utilizando **Python**, **Flask**, **Django** e tecnologias de microserviços. Compreensão de princípios de **Domain-Driven Design (DDD)** e **Clean Architecture**.
+
+- **Gerenciamento de Projetos**: Experiência na condução de projetos de TI do início ao fim, incluindo levantamento de requisitos, planejamento, execução e monitoramento.
+
+- **Suporte Técnico**: Vasta experiência em suporte técnico e help desk, garantindo a satisfação do cliente e a resolução eficiente de problemas.
 
 ---
 
