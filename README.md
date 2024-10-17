@@ -317,16 +317,17 @@ Atualmente, estou cursando **Gestão de TI** na **Estácio EAD Tecnológico**, c
 - Processos e ITSM
 - Práticas de DevOps em todo ciclo de desenvolvimento e deployment
 - Sistemas Windows e Linux
+- Arquitetura de sistemas: Domain drive design, event drive design, MVC
 - Containers e CI/CD com GitHub, GitLab, Docker e Kubernetes
 - Linguagens de Programação Python e JavaScript
-- Metodologias Ágeis (Scrum, Kanban)
+- Metodologias Ágeis (Scrum, Kanban,SOLID,DRY OO)
 - Segurança da Informação e conformidade com normas como ISO 27001
 
 ---
 
 ### 💌 Contato
-📧 **Email:** elias.andrade@example.com  
+📧 **Email:** oeliasandrade@gmail.com 
 🔗 **GitHub:** [chaos4455](https://github.com/chaos4455)  
-🌐 **LinkedIn:** [Elias Andrade](https://www.linkedin.com/in/elias-andrade)
+🌐 **LinkedIn:** [Elias Andrade](https://www.linkedin.com/in/itilmgf)
 
 ---
