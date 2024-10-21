@@ -73,6 +73,58 @@ Sou um profissional de TI com mais de **14 anos** de experiência diversificada 
 
 Minha especialização reside em garantir **alta disponibilidade** 🔄, **escalabilidade** 📈 e **recuperação de desastres** 💪 em ambientes complexos. Estou sempre em busca de oportunidades que me permitam aplicar meus conhecimentos e contribuir para a evolução das infraestruturas tecnológicas da sua empresa.
 
+### 🔧 **Principais Tecnologias e Habilidades:**
+
+#### **Distribuições Linux:**
+- **Ubuntu:** 
+  ![Ubuntu 10](https://img.shields.io/badge/Ubuntu-10-blue)
+  ![Ubuntu 14](https://img.shields.io/badge/Ubuntu-14-blue)
+  ![Ubuntu 16](https://img.shields.io/badge/Ubuntu-16-blue)
+  ![Ubuntu 18](https://img.shields.io/badge/Ubuntu-18-blue)
+  ![Ubuntu 20](https://img.shields.io/badge/Ubuntu-20-blue)
+  ![Ubuntu 22](https://img.shields.io/badge/Ubuntu-22-blue)
+- **Debian:** 
+  ![Debian 7](https://img.shields.io/badge/Debian-7-blue)
+  ![Debian 8](https://img.shields.io/badge/Debian-8-blue)
+  ![Debian 9](https://img.shields.io/badge/Debian-9-blue)
+  ![Debian 10](https://img.shields.io/badge/Debian-10-blue)
+  ![Debian 11](https://img.shields.io/badge/Debian-11-blue)
+- **CentOS:** 
+  ![CentOS 7](https://img.shields.io/badge/CentOS-7-blue)
+  ![CentOS 8](https://img.shields.io/badge/CentOS-8-blue)
+
+#### **Gerenciamento e Configuração:**
+- **Acesso Remoto:** 
+  ![SSH](https://img.shields.io/badge/SSH-Enabled-brightgreen)
+  ![VNC](https://img.shields.io/badge/VNC-Enabled-brightgreen)
+- **Orquestração de Configuração:** 
+  ![Ansible](https://img.shields.io/badge/Ansible-Experienced-orange)
+  ![Puppet](https://img.shields.io/badge/Puppet-Experienced-orange)
+- **Gerenciamento de Firewall:** 
+  ![UFW](https://img.shields.io/badge/UFW-Experienced-orange)
+
+#### **Serviços e Funções em Windows Server:**
+- **Active Directory:** 
+  ![Active Directory](https://img.shields.io/badge/Active_Directory-Configured_and_Managed-yellow)
+- **DNS:** 
+  ![DNS](https://img.shields.io/badge/DNS-Zones_and_Name_Resolution-green)
+- **DHCP:** 
+  ![DHCP](https://img.shields.io/badge/DHCP-Configured_and_Managed-green)
+- **File Server:** 
+  ![File Server](https://img.shields.io/badge/File_Server-Configured_and_Managed-green)
+- **Terminal Services:** 
+  ![Terminal Services](https://img.shields.io/badge/Terminal_Services-Implemented_and_Managed-blue)
+- **PowerShell:** 
+  ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting_and_Automation-blue)
+
+## 🛠️ **Habilidades de Scripting e Automação:**
+- **Bash Scripting:** Automação de tarefas no Linux
+- **PowerShell:** Scripting para gerenciamento em Windows
+
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+
 ---
 
 ### 🛠️ Habilidades e Competências
@@ -157,58 +209,6 @@ Com mais de **14 anos** de experiência contínua na área de infraestrutura de 
 
 🔒 **Segurança e Melhores Práticas:**
 Meu trabalho é fundamentado nas metodologias **DevOps**, **AIOps**, **GitOps** e **DevSecOps**, garantindo processos contínuos de integração, entrega e segurança. Antes de migrar completamente para a área de DevOps, atuei em ambientes variados, desde pequenas empresas até grandes corporações, adquirindo um conhecimento diversificado e uma abordagem versátil para resolver desafios complexos de TI.
-
-### 🔧 **Principais Tecnologias e Habilidades:**
-
-#### **Distribuições Linux:**
-- **Ubuntu:** 
-  ![Ubuntu 10](https://img.shields.io/badge/Ubuntu-10-blue)
-  ![Ubuntu 14](https://img.shields.io/badge/Ubuntu-14-blue)
-  ![Ubuntu 16](https://img.shields.io/badge/Ubuntu-16-blue)
-  ![Ubuntu 18](https://img.shields.io/badge/Ubuntu-18-blue)
-  ![Ubuntu 20](https://img.shields.io/badge/Ubuntu-20-blue)
-  ![Ubuntu 22](https://img.shields.io/badge/Ubuntu-22-blue)
-- **Debian:** 
-  ![Debian 7](https://img.shields.io/badge/Debian-7-blue)
-  ![Debian 8](https://img.shields.io/badge/Debian-8-blue)
-  ![Debian 9](https://img.shields.io/badge/Debian-9-blue)
-  ![Debian 10](https://img.shields.io/badge/Debian-10-blue)
-  ![Debian 11](https://img.shields.io/badge/Debian-11-blue)
-- **CentOS:** 
-  ![CentOS 7](https://img.shields.io/badge/CentOS-7-blue)
-  ![CentOS 8](https://img.shields.io/badge/CentOS-8-blue)
-
-#### **Gerenciamento e Configuração:**
-- **Acesso Remoto:** 
-  ![SSH](https://img.shields.io/badge/SSH-Enabled-brightgreen)
-  ![VNC](https://img.shields.io/badge/VNC-Enabled-brightgreen)
-- **Orquestração de Configuração:** 
-  ![Ansible](https://img.shields.io/badge/Ansible-Experienced-orange)
-  ![Puppet](https://img.shields.io/badge/Puppet-Experienced-orange)
-- **Gerenciamento de Firewall:** 
-  ![UFW](https://img.shields.io/badge/UFW-Experienced-orange)
-
-#### **Serviços e Funções em Windows Server:**
-- **Active Directory:** 
-  ![Active Directory](https://img.shields.io/badge/Active_Directory-Configured_and_Managed-yellow)
-- **DNS:** 
-  ![DNS](https://img.shields.io/badge/DNS-Zones_and_Name_Resolution-green)
-- **DHCP:** 
-  ![DHCP](https://img.shields.io/badge/DHCP-Configured_and_Managed-green)
-- **File Server:** 
-  ![File Server](https://img.shields.io/badge/File_Server-Configured_and_Managed-green)
-- **Terminal Services:** 
-  ![Terminal Services](https://img.shields.io/badge/Terminal_Services-Implemented_and_Managed-blue)
-- **PowerShell:** 
-  ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting_and_Automation-blue)
-
-## 🛠️ **Habilidades de Scripting e Automação:**
-- **Bash Scripting:** Automação de tarefas no Linux
-- **PowerShell:** Scripting para gerenciamento em Windows
-
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
 
 ---
 
