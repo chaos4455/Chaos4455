@@ -8,6 +8,70 @@ Sou um profissional de TI com mais de **14 anos** de experiência diversificada 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
 
+# Portfolio de Desenvolvimento e Infraestrutura
+
+## Repositórios Principais
+
+### [Devops-2024](https://github.com/chaos4455/Devops-2024)
+
+[![DevOps 2024](https://img.shields.io/badge/DevOps-2024-blueviolet?style=for-the-badge)](https://github.com/chaos4455/Devops-2024)
+[![Infraestrutura](https://img.shields.io/badge/Infraestrutura-2019--2024-yellow?style=for-the-badge)](https://github.com/chaos4455/Certifica-es)
+[![Experiência em Redes](https://img.shields.io/badge/Experiência%20em%20Redes-DevOps-brightgreen?style=for-the-badge)](https://github.com/chaos4455/Certifica-es)
+
+### [WEBdev-Front-Back-End-Portfolio](https://github.com/chaos4455/WEBdev-Front-Back-End-Portfolio)
+
+[![Desenvolvimento Front-End](https://img.shields.io/badge/Desenvolvimento%20Front--End-HTML5%2C%20CSS3%2C%20JavaScript-blue?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chaos4455/WEBdev-Front-Back-End-Portfolio)
+[![Desenvolvimento Back-End](https://img.shields.io/badge/Desenvolvimento%20Back--End-Node.js%2C%20Express-green?style=for-the-badge&logo=node.js)](https://github.com/chaos4455/WEBdev-Front-Back-End-Portfolio)
+
+### [WEB-UI-UX-Mockups](https://github.com/chaos4455/WEB-UI-UX-Mockups)
+
+[![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-Figma%2C%20Sketch%2C%20Adobe%20XD-ff69b4?style=for-the-badge&logo=figma)](https://github.com/chaos4455/WEB-UI-UX-Mockups)
+
+### [architeture-diagrams](https://github.com/chaos4455/architeture-diagrams)
+
+[![Diagramação de Sistemas](https://img.shields.io/badge/Diagramação%20de%20Sistemas-Lucidchart%2C%20Draw.io-yellowgreen?style=for-the-badge&logo=lucidchart)](https://github.com/chaos4455/architeture-diagrams)
+
+### [Data-Projects-Portfolio](https://github.com/chaos4455/Data-Projects-Portfolio)
+
+[![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-Pandas%2C%20NumPy%2C%20Matplotlib-orange?style=for-the-badge&logo=pandas)](https://github.com/chaos4455/Data-Projects-Portfolio)
+
+### [Python-Dev-BE-AI-ML-LLM-DEVOPS](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)
+
+[![Python e Machine Learning](https://img.shields.io/badge/Python%20e%20Machine%20Learning-Scikit--learn%2C%20TensorFlow%2C%20PyTorch-critical?style=for-the-badge&logo=python)](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)
+
+### [Projetos](https://github.com/chaos4455/Projetos)
+
+[![Jornada Profissional](https://img.shields.io/badge/Jornada%20Profissional-2010--2024-lightblue?style=for-the-badge)](https://github.com/chaos4455/Projetos)
+
+### [Projetos-DEV](https://github.com/chaos4455/Projetos-DEV)
+
+[![Micro Projetos Diversos](https://img.shields.io/badge/Micro%20Projetos-Diversos-ffcc00?style=for-the-badge)](https://github.com/chaos4455/Projetos-DEV)
+
+### [Certifica-es](https://github.com/chaos4455/Certifica-es)
+
+[![Certificações em Infraestrutura](https://img.shields.io/badge/Certificações-Infraestrutura-ff6600?style=for-the-badge)](https://github.com/chaos4455/Certifica-es)
+
+## Currículo e Portfolio Principal
+
+- **[CV](https://github.com/chaos4455/CV)**  
+  Currículo e lista de conhecimentos e competências.
+
+---
+
+## Badges e Shields Personalizadas
+
+### Tecnologias Principais
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Minha especialização reside em garantir **alta disponibilidade** 🔄, **escalabilidade** 📈 e **recuperação de desastres** 💪 em ambientes complexos. Estou sempre em busca de oportunidades que me permitam aplicar meus conhecimentos e contribuir para a evolução das infraestruturas tecnológicas da sua empresa.
 
@@ -329,5 +393,7 @@ Atualmente, estou cursando **Gestão de TI** na **Estácio EAD Tecnológico**, c
 📧 **Email:** oeliasandrade@gmail.com 
 🔗 **GitHub:** [chaos4455](https://github.com/chaos4455)  
 🌐 **LinkedIn:** [Elias Andrade](https://www.linkedin.com/in/itilmgf)
+
+_© 2024 chaos4455. Este README.md foi criado com ❤️ e criatividade._
 
 ---
