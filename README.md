@@ -1,5 +1,8 @@
 # **Elias Andrade** 🚀  
 
+![Mubb3gEkKy](https://github.com/user-attachments/assets/f16e0877-1b25-47f5-a1b2-d0e795b9ff92)
+
+
 ![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-0A0A0A?style=for-the-badge&logo=docker&logoColor=white)
 ![GitOps Badge](https://img.shields.io/badge/GitOps-GitHub%2FGitHubActions%2FArgoCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -18,10 +21,6 @@
 🛠️ **Microservices & Clean Architecture** | 🤖 **LLMOps, MLOps**  
 🧠 **Machine Learning & Generative AI** | 🔬 **Prototyping, Research & Innovation**  
 🚀 **Multi-Paradigm & Multi-Domain AI Solutions**
-
-
-![Mubb3gEkKy](https://github.com/user-attachments/assets/f16e0877-1b25-47f5-a1b2-d0e795b9ff92)
-
 
 ### 🎯 Objetivo Profissional
 Sou um profissional de TI com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
