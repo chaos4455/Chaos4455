@@ -1,6 +1,25 @@
 # Elias Andrade 🚀
 
-DevOps Infrastructure Analyst | Docker/Kubernetes | GitOps (GitHub/GitHub Actions/ArgoCD) | Windows/Linux Server Administration | VMware/Hyper-V Virtualization | Python | Solution Architect & Backend Developer | Microservices & Clean Architecture | LLMOps, MLOps | Machine Learning & Generative AI | Prototyping, Research & Innovation | Multi-Paradigm & Multi-Domain AI Solutions
+# **Elias Andrade** 🚀  
+![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-0A0A0A?style=for-the-badge&logo=docker&logoColor=white)
+![GitOps Badge](https://img.shields.io/badge/GitOps-GitHub%2FGitHubActions%2FArgoCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-Linux_Server-0A0A0A?style=for-the-badge&logo=windows&logoColor=white)
+![VMware Badge](https://img.shields.io/badge/VMware-Hyper--V_Virtualization-0A0A0A?style=for-the-badge&logo=vmware&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-Backend_Dev-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Architect Badge](https://img.shields.io/badge/Solution_Architect-Microservices_Clean_Architecture-0A0A0A?style=for-the-badge&logo=microservices&logoColor=white)
+![LLMOps Badge](https://img.shields.io/badge/LLMOps-MLOps-0A0A0A?style=for-the-badge&logo=machinelearning&logoColor=white)
+![AI Badge](https://img.shields.io/badge/Generative_AI-Machine_Learning-0A0A0A?style=for-the-badge&logo=ai&logoColor=white)
+![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-0A0A0A?style=for-the-badge&logo=innovation&logoColor=white)
+![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm%20AI-0A0A0A?style=for-the-badge&logo=prototyping&logoColor=white)
+
+💻 **DevOps Infrastructure Analyst** | 🐳 **Docker/Kubernetes** | ⚙️ **GitOps** (GitHub/GitHub Actions/ArgoCD)  
+🖥️ **Windows/Linux Server Administration** | ☁️ **VMware/Hyper-V Virtualization**  
+🐍 **Python Developer** | 🏗️ **Solution Architect & Backend Developer**  
+🛠️ **Microservices & Clean Architecture** | 🤖 **LLMOps, MLOps**  
+🧠 **Machine Learning & Generative AI** | 🔬 **Prototyping, Research & Innovation**  
+🚀 **Multi-Paradigm & Multi-Domain AI Solutions**
+
 
 ![Mubb3gEkKy](https://github.com/user-attachments/assets/f16e0877-1b25-47f5-a1b2-d0e795b9ff92)
 
