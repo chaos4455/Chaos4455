@@ -1,6 +1,6 @@
 # Elias Andrade 🚀
 
-![y9EwooALcU](https://github.com/user-attachments/assets/999bdedb-b20d-4304-a1ec-49c1c35c8dd9)
+![Mubb3gEkKy](https://github.com/user-attachments/assets/f16e0877-1b25-47f5-a1b2-d0e795b9ff92)
 
 
 ### 🎯 Objetivo Profissional
