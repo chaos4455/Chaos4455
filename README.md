@@ -1,7 +1,11 @@
 # Elias Andrade 🚀
 
+![y9EwooALcU](https://github.com/user-attachments/assets/999bdedb-b20d-4304-a1ec-49c1c35c8dd9)
+
+
 ### 🎯 Objetivo Profissional
 Sou um profissional de TI com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
+
 
 ### 📈 Estatísticas no GitHub
 
