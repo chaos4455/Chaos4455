@@ -411,5 +411,6 @@ Outros projetos e IA Generativa - Redes neurais e machine learning.
 🌐 **LinkedIn:** [Elias Andrade](https://www.linkedin.com/in/itilmgf)
 
 _© 2024 chaos4455. Este README.md foi criado com ❤️ e criatividade._
+Isadora, te amo minha filha! 👧💖
 
 ---
