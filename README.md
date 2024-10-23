@@ -1,5 +1,7 @@
 # Elias Andrade 🚀
 
+DevOps Infrastructure Analyst | Docker/Kubernetes | GitOps (GitHub/GitHub Actions/ArgoCD) | Windows/Linux Server Administration | VMware/Hyper-V Virtualization | Python | Solution Architect & Backend Developer | Microservices & Clean Architecture | LLMOps, MLOps | Machine Learning & Generative AI | Prototyping, Research & Innovation | Multi-Paradigm & Multi-Domain AI Solutions
+
 ![Mubb3gEkKy](https://github.com/user-attachments/assets/f16e0877-1b25-47f5-a1b2-d0e795b9ff92)
 
 
