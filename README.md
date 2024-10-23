@@ -1,24 +1,16 @@
-# Elias Andrade 🚀
+# **Elias Andrade** 🚀  
 
-![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-4%2B%20years-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-5%2B%20years-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitOps Badge](https://img.shields.io/badge/GitOps-GitHub%2FGitHub%20Actions%2FArgoCD-3%2B%20years-181717?style=for-the-badge&logo=githubactions&logoColor=white)
-![Windows Badge](https://img.shields.io/badge/Windows%2FLinux_Server-Administration-14%2B%20years-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VMware Badge](https://img.shields.io/badge/VMware-Hyper--V_Virtualization-7%2B%20years-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-Backend_Dev-4%2B%20years-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Architect Badge](https://img.shields.io/badge/Solution_Architect-2%2B%20years-F05032?style=for-the-badge&logo=microservices&logoColor=white)
-![Clean Architecture Badge](https://img.shields.io/badge/Clean_Architecture-1%2B%20years-00BCD4?style=for-the-badge&logo=cleanarchitecture&logoColor=white)
-![LLMOps Badge](https://img.shields.io/badge/LLMOps-2%2B%20years-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white)
-![MLOps Badge](https://img.shields.io/badge/MLOps-1%2B%20years-00C853?style=for-the-badge&logo=mlops&logoColor=white)
-![AI Badge](https://img.shields.io/badge/Generative_AI-Machine_Learning-4%2B%20years-FF4081?style=for-the-badge&logo=ai&logoColor=white)
-![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm_AI-1%2B%20years-7E57C2?style=for-the-badge&logo=prototyping&logoColor=white)
-![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-4%2B%20years-607D8B?style=for-the-badge&logo=innovation&logoColor=white)
-
-💻 **DevOps Infrastructure Analyst** (4+ anos) | 🐳 **Docker/Kubernetes** (5+ anos) | ⚙️ **GitOps** (GitHub/GitHub Actions/ArgoCD) (3+ anos)  
-🖥️ **Windows/Linux Server Administration** (14+ anos) | ☁️ **VMware/Hyper-V Virtualization** (7+ anos)  
-🐍 **Python Developer** (4+ anos) | 🏗️ **Solution Architect** (2+ anos) | 🏛️ **Clean Architecture** (1+ ano)  
-🛠️ **Microservices** | 🤖 **LLMOps** (2+ anos) | 🤖 **MLOps** (1+ ano)  
-🧠 **Machine Learning & Generative AI** (4+ anos) | 🔬 **Prototyping & Research in Multi-Paradigm AI** (1+ ano)
+![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-0A0A0A?style=for-the-badge&logo=docker&logoColor=white)
+![GitOps Badge](https://img.shields.io/badge/GitOps-GitHub%2FGitHubActions%2FArgoCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-Linux_Server-0A0A0A?style=for-the-badge&logo=windows&logoColor=white)
+![VMware Badge](https://img.shields.io/badge/VMware-Hyper--V_Virtualization-0A0A0A?style=for-the-badge&logo=vmware&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-Backend_Dev-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Architect Badge](https://img.shields.io/badge/Solution_Architect-Microservices_Clean_Architecture-0A0A0A?style=for-the-badge&logo=microservices&logoColor=white)
+![LLMOps Badge](https://img.shields.io/badge/LLMOps-MLOps-0A0A0A?style=for-the-badge&logo=machinelearning&logoColor=white)
+![AI Badge](https://img.shields.io/badge/Generative_AI-Machine_Learning-0A0A0A?style=for-the-badge&logo=ai&logoColor=white)
+![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-0A0A0A?style=for-the-badge&logo=innovation&logoColor=white)
+![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm%20AI-0A0A0A?style=for-the-badge&logo=prototyping&logoColor=white)
 
 💻 **DevOps Infrastructure Analyst** | 🐳 **Docker/Kubernetes** | ⚙️ **GitOps** (GitHub/GitHub Actions/ArgoCD)  
 🖥️ **Windows/Linux Server Administration** | ☁️ **VMware/Hyper-V Virtualization**  
