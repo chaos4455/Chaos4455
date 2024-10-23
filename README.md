@@ -23,8 +23,10 @@
 🚀 **Multi-Paradigm & Multi-Domain AI Solutions**
 
 ### 🎯 Objetivo Profissional
-Sou um profissional de TI com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
 
+Sou um **profissional de TI** com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
+
+Atualmente, estou em busca de **oportunidades remotas** para parcerias em projetos fixos ou temporários. Estou aberto a negociações de remuneração, tanto para **CLT** quanto **PJ**, sempre priorizando o trabalho **home office**. Se você está procurando um profissional comprometido e com vasta experiência para agregar valor ao seu time, vamos conversar! 💬
 
 ### 📈 Estatísticas no GitHub
 
