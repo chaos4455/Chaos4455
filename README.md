@@ -2,6 +2,9 @@
 
 ![Mubb3gEkKy](https://github.com/user-attachments/assets/f16e0877-1b25-47f5-a1b2-d0e795b9ff92)
 
+### 🌟 Conheça mais sobre mim!  
+Explore meu repositório pessoal e descubra meus hobbies e momentos em família: [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
+
 
 ![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-0A0A0A?style=for-the-badge&logo=docker&logoColor=white)
