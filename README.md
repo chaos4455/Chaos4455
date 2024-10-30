@@ -35,7 +35,14 @@ R$ 8.000,00 CLT - R$ 12.00,00 PJ
 - 📞 **Telefone:** +55 (44) 98765-4321
 - 📧 **E-mail:** elias.andrade@email.com
 - 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
-  
+
+## 🎬 Apresentação do Projeto Prometheus - Interface Chatbot Corporativo e Copilot
+
+Estou desenvolvendo uma série de projetos em Inteligência Artificial e chatbots que abrangem toda a arquitetura, do back-end ao front-end. Este vídeo traz uma demonstração do **Prometheus Replika IA**, uma interface chatbot corporativa com funcionalidades avançadas para automação e suporte copilot. Confira como estamos inovando em soluções de IA para empresas!
+
+[![Apresentação Prometheus Replika IA - Interface Chatbot Corporativo e Copilot](https://img.youtube.com/vi/I4QRiRjX9uY/0.jpg)](https://www.youtube.com/watch?v=I4QRiRjX9uY)
+
+
 ## 🎯 Objetivo Profissional
 Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
 
