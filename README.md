@@ -34,7 +34,7 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ## 📄 Currículo e Portfolio Principal
 
-- **[📄 Leia meu Currículo Completo!](https://github.com/chaos4455/CV)**
+- **[📄 Leia meu Currículo Completo clicando aqui!](https://github.com/chaos4455/CV)**
 
   🎓 Currículo e lista de conhecimentos e competências.  
   - 🛠️ **Competências Técnicas**  
