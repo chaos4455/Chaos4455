@@ -39,6 +39,13 @@ R$ 8.000,00 CLT - R$ 12.00,00 PJ
 [![YouTube - Portfólio Replika AI Solutions](https://img.shields.io/badge/Portfólio_Replika_AI-YouTube-red?logo=youtube)](https://www.youtube.com/@Replika-AI-Solutions) 
 [![YouTube - Portfólio Evolução IT](https://img.shields.io/badge/Portfólio_Evolução_IT-YouTube-red?logo=youtube)](https://www.youtube.com/@evolucaoit-replikasistemas)
 
+## 🌐 Outros Repositórios de Projetos
+
+Explore outros projetos de IA e automação em nossos repositórios:
+
+[![GitHub - Replika AI Solutions](https://img.shields.io/badge/Repositório_Replika_AI_Solutions-GitHub-black?logo=github)](https://github.com/replika-ai-solutions)  
+[![GitHub - Evolução IT](https://img.shields.io/badge/Repositório_Evolução_IT-GitHub-black?logo=github)](https://github.com/evolucaoit)
+
 
 ## 🎯 Objetivo Profissional
 Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
