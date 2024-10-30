@@ -1,6 +1,27 @@
 # **Elias Andrade** 🚀  
 
+## 🛠️ Apresentação Técnica
+
+![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-0A0A0A?style=for-the-badge&logo=docker&logoColor=white)
+![GitOps Badge](https://img.shields.io/badge/GitOps-GitHub%2FGitHubActions%2FArgoCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-Linux_Server-0A0A0A?style=for-the-badge&logo=windows&logoColor=white)
+![VMware Badge](https://img.shields.io/badge/VMware-Hyper--V_Virtualization-0A0A0A?style=for-the-badge&logo=vmware&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-Backend_Dev-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Architect Badge](https://img.shields.io/badge/Solution_Architect-Microservices_Clean_Architecture-0A0A0A?style=for-the-badge&logo=microservices&logoColor=white)
+![LLMOps Badge](https://img.shields.io/badge/LLMOps-MLOps-0A0A0A?style=for-the-badge&logo=machinelearning&logoColor=white)
+![AI Badge](https://img.shields.io/badge/Generative_AI-Machine_Learning-0A0A0A?style=for-the-badge&logo=ai&logoColor=white)
+![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-0A0A0A?style=for-the-badge&logo=innovation&logoColor=white)
+![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm%20AI-0A0A0A?style=for-the-badge&logo=prototyping&logoColor=white)
+
 ![Mubb3gEkKy](https://github.com/user-attachments/assets/f16e0877-1b25-47f5-a1b2-d0e795b9ff92)
+
+
+### 📈 Estatísticas no GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
+
 
 ### 🌟 Conheça mais sobre mim!  
 Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e momentos em família: [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
@@ -17,6 +38,10 @@ R$ 8.000,00 CLT - R$ 12.00,00 PJ
   
 ## 🎯 Objetivo Profissional
 Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
+
+Sou um **profissional de TI** com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
+
+Atualmente, estou em busca de **oportunidades remotas** para parcerias em projetos fixos ou temporários. Estou aberto a negociações de remuneração, tanto para **CLT** quanto **PJ**, sempre priorizando o trabalho **home office**. Se você está procurando um profissional comprometido e com vasta experiência para agregar valor ao seu time, vamos conversar! 💬
 
 ### 🔄 Em Busca de Novos Desafios
 
@@ -69,31 +94,6 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
     - Resolução de Problemas ![Resolução de Problemas](https://img.shields.io/badge/Resolucao_de_Problemas-Eficaz-yellowgreen)
 
 ---
-
-## 🛠️ Apresentação Técnica
-
-![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-0A0A0A?style=for-the-badge&logo=docker&logoColor=white)
-![GitOps Badge](https://img.shields.io/badge/GitOps-GitHub%2FGitHubActions%2FArgoCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-![Windows Badge](https://img.shields.io/badge/Windows-Linux_Server-0A0A0A?style=for-the-badge&logo=windows&logoColor=white)
-![VMware Badge](https://img.shields.io/badge/VMware-Hyper--V_Virtualization-0A0A0A?style=for-the-badge&logo=vmware&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-Backend_Dev-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
-![Architect Badge](https://img.shields.io/badge/Solution_Architect-Microservices_Clean_Architecture-0A0A0A?style=for-the-badge&logo=microservices&logoColor=white)
-![LLMOps Badge](https://img.shields.io/badge/LLMOps-MLOps-0A0A0A?style=for-the-badge&logo=machinelearning&logoColor=white)
-![AI Badge](https://img.shields.io/badge/Generative_AI-Machine_Learning-0A0A0A?style=for-the-badge&logo=ai&logoColor=white)
-![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-0A0A0A?style=for-the-badge&logo=innovation&logoColor=white)
-![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm%20AI-0A0A0A?style=for-the-badge&logo=prototyping&logoColor=white)
-
-### 🎯 Objetivo Profissional
-
-Sou um **profissional de TI** com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
-
-Atualmente, estou em busca de **oportunidades remotas** para parcerias em projetos fixos ou temporários. Estou aberto a negociações de remuneração, tanto para **CLT** quanto **PJ**, sempre priorizando o trabalho **home office**. Se você está procurando um profissional comprometido e com vasta experiência para agregar valor ao seu time, vamos conversar! 💬
-
-### 📈 Estatísticas no GitHub
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
 
 # Portfolio de Desenvolvimento e Infraestrutura
 
