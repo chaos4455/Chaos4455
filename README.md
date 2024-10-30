@@ -5,6 +5,28 @@
 ### 🌟 Conheça mais sobre mim!  
 Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e momentos em família: [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
 
+## 💰 Pretensão Salarial faixa à negociar 
+R$ 8.000,00 CLT - R$ 12.00,00 PJ
+
+## 🎯 Objetivo Profissional
+Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
+
+## Informações de Contato 📞 📧 🏠
+
+- 🏠 **Localização:** Maringá, Paraná, Brasil
+- 📞 **Telefone:** +55 (44) 98765-4321
+- 📧 **E-mail:** elias.andrade@email.com
+- 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
+  
+---
+
+### 🌍 O que Busco Hoje
+
+Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutura, DevOps e projetos de inovação. Meu objetivo é aplicar toda a experiência adquirida e as habilidades desenvolvidas para impactar positivamente os resultados das empresas e contribuir para o avanço tecnológico. Estou pronto para enfrentar novos desafios e ajudar a impulsionar a transformação digital nas organizações.
+
+![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
+
+
 ## 🛠️ Apresentação Técnica
 
 ![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
