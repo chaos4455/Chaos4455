@@ -36,8 +36,6 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 - **[📄 Leia meu Currículo Completo!](https://github.com/chaos4455/CV)**
 
--   ![CV Badge](https://img.shields.io/badge/Curriculo_completo-clique-para-let-blue?style=for-the-badge&logo=github)
-
   🎓 Currículo e lista de conhecimentos e competências.  
   - 🛠️ **Competências Técnicas**  
     - **Desenvolvimento**:  
