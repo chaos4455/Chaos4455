@@ -8,6 +8,13 @@ Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e 
 ## 💰 Pretensão Salarial faixa à negociar 
 R$ 8.000,00 CLT - R$ 12.00,00 PJ
 
+## Informações de Contato 📞 📧 🏠
+
+- 🏠 **Localização:** Maringá, Paraná, Brasil
+- 📞 **Telefone:** +55 (44) 98765-4321
+- 📧 **E-mail:** elias.andrade@email.com
+- 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
+  
 ## 🎯 Objetivo Profissional
 Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
 
@@ -17,13 +24,6 @@ Estou animado para enfrentar novos desafios e contribuir com a minha experiênci
 
 ![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
 
-## Informações de Contato 📞 📧 🏠
-
-- 🏠 **Localização:** Maringá, Paraná, Brasil
-- 📞 **Telefone:** +55 (44) 98765-4321
-- 📧 **E-mail:** elias.andrade@email.com
-- 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
-  
 ---
 
 ### 🌍 O que Busco Hoje
