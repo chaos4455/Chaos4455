@@ -36,6 +36,15 @@ R$ 8.000,00 CLT - R$ 12.00,00 PJ
 - 📧 **E-mail:** elias.andrade@email.com
 - 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
 
+# 🚀 Vamos Agendar uma Conversa!
+
+Se você está buscando discutir ideias, explorar parcerias ou quer saber mais sobre como posso ajudar em seus projetos, ficarei feliz em conversar com você! Marque uma reunião online para falarmos sobre **Inteligência Artificial**, **DevOps**, **Automação** e muito mais!
+
+📅 [Clique aqui para agendar uma call de 30 minutos comigo no Calendly!](https://calendly.com/oeliasandrade/30min)
+
+Estou ansioso para compartilhar ideias e explorar oportunidades juntos! 🚀
+
+
 [![YouTube - Portfólio Replika AI Solutions](https://img.shields.io/badge/Portfólio_Replika_AI-YouTube-red?logo=youtube)](https://www.youtube.com/@Replika-AI-Solutions) 
 [![YouTube - Portfólio Evolução IT](https://img.shields.io/badge/Portfólio_Evolução_IT-YouTube-red?logo=youtube)](https://www.youtube.com/@evolucaoit-replikasistemas)
 
