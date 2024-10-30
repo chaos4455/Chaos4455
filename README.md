@@ -67,34 +67,45 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 - 🛠️ **Competências Técnicas**  
   - **Desenvolvimento**:  
-    - Full Stack (Python, HTML, CSS, React, Node.js) ![Full Stack](https://img.shields.io/badge/Full_Stack-Experienced-brightgreen)
-    - Frontend (Tailwind CSS, Next.js) ![Frontend](https://img.shields.io/badge/Frontend-Experienced-brightgreen)
-    - Backend (Flask, FastAPI) ![Backend](https://img.shields.io/badge/Backend-Experienced-brightgreen)
+    - ![Full Stack](https://img.shields.io/badge/Full_Stack-Python-orange) 
+    - ![Full Stack](https://img.shields.io/badge/HTML-orange) 
+    - ![Full Stack](https://img.shields.io/badge/CSS-orange) 
+    - ![Full Stack](https://img.shields.io/badge/React-orange) 
+    - ![Full Stack](https://img.shields.io/badge/Node.js-orange) 
+    - ![Frontend](https://img.shields.io/badge/Frontend-TailwindCSS-blue) 
+    - ![Frontend](https://img.shields.io/badge/Frontend-Next.js-blue) 
+    - ![Backend](https://img.shields.io/badge/Backend-Flask-red) 
+    - ![Backend](https://img.shields.io/badge/Backend-FastAPI-red) 
   
   - **Inteligência Artificial**:  
-    - Machine Learning ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Experienced-brightgreen)
-    - Deep Learning (CNN, DNN, QNN) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Experienced-brightgreen)
-    - Visão Computacional ![Visão Computacional](https://img.shields.io/badge/Visao_Computacional-Experienced-brightgreen)
+    - ![Machine Learning](https://img.shields.io/badge/Machine_Learning-green) 
+    - ![Deep Learning](https://img.shields.io/badge/Deep_Learning-CNN%2FDNN%2FQNN-green) 
+    - ![Visão Computacional](https://img.shields.io/badge/Visao_Computacional-purple) 
   
   - **DevOps e Automação**:  
-    - Ferramentas de CI/CD (Jenkins, GitLab CI/CD, GitHub Actions) ![CI/CD](https://img.shields.io/badge/CI_CD-Experienced-brightgreen)
-    - Infraestrutura como Código (Terraform) ![IaC](https://img.shields.io/badge/IaC-Experienced-brightgreen)
+    - ![CI/CD](https://img.shields.io/badge/CI_CD-Jenkins%2CGitLab%20CI/CD%2CGitHub%20Actions-lightgray) 
+    - ![IaC](https://img.shields.io/badge/IaC-Terraform-lightgray)
 
   - **Análise de Dados**:  
-    - Pandas, NumPy ![Pandas](https://img.shields.io/badge/Pandas-Experienced-brightgreen) ![NumPy](https://img.shields.io/badge/NumPy-Experienced-brightgreen)
-    - Visualização de Dados (Matplotlib, Seaborn, Plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Experienced-brightgreen) ![Seaborn](https://img.shields.io/badge/Seaborn-Experienced-brightgreen)
+    - ![Pandas](https://img.shields.io/badge/Pandas-yellow) 
+    - ![NumPy](https://img.shields.io/badge/NumPy-blue) 
+    - ![Matplotlib](https://img.shields.io/badge/Matplotlib-red) 
+    - ![Seaborn](https://img.shields.io/badge/Seaborn-pink) 
+    - ![Plotly](https://img.shields.io/badge/Plotly-purple)
 
   - **Scripting**:  
-    - Python, Bash, PowerShell ![Python](https://img.shields.io/badge/Python-Experienced-brightgreen) ![Bash](https://img.shields.io/badge/Bash-Experienced-brightgreen) ![PowerShell](https://img.shields.io/badge/PowerShell-Experienced-brightgreen)
+    - ![Python](https://img.shields.io/badge/Python-yellowgreen) 
+    - ![Bash](https://img.shields.io/badge/Bash-gray) 
+    - ![PowerShell](https://img.shields.io/badge/PowerShell-blue)
 
 - 📚 **Experiência e Projetos**:  
-  - Projetos em IA e Machine Learning ![Projetos IA](https://img.shields.io/badge/Projetos_IA-Experienced-brightgreen)
-  - Desenvolvimento de Chatbots e Copilots ![Chatbots](https://img.shields.io/badge/Chatbots-Experienced-brightgreen)
+  - ![Projetos IA](https://img.shields.io/badge/Projetos_IA-yellowgreen) 
+  - ![Chatbots](https://img.shields.io/badge/Chatbots-yellowgreen)
 
 - 🗣️ **Soft Skills**:  
-  - Comunicação Eficaz ![Comunicação](https://img.shields.io/badge/Comunicao-Eficaz-brightgreen)
-  - Trabalho em Equipe ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho_em_Equipe-Eficaz-brightgreen)
-  - Resolução de Problemas ![Resolução de Problemas](https://img.shields.io/badge/Resolucao_de_Problemas-Eficaz-brightgreen)
+  - ![Comunicação](https://img.shields.io/badge/Comunicao-Eficaz-orange) 
+  - ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho_em_Equipe-Eficaz-orange) 
+  - ![Resolução de Problemas](https://img.shields.io/badge/Resolucao_de_Problemas-Eficaz-orange) 
 
 ---
 
