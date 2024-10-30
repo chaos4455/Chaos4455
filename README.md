@@ -41,7 +41,7 @@ R$ 8.000,00 CLT - R$ 12.00,00 PJ
 
 ## 🌐 Outros Repositórios de Projetos
 
-Explore outros projetos de IA e automação em nossos repositórios:
+Explore meus outros repositórios de soluções e projetos mais empresariais
 
 [![GitHub - Replika AI Solutions](https://img.shields.io/badge/Repositório_Replika_AI_Solutions-GitHub-black?logo=github)](https://github.com/replika-ai-solutions)  
 [![GitHub - Evolução IT](https://img.shields.io/badge/Repositório_Evolução_IT-GitHub-black?logo=github)](https://github.com/evolucaoit)
