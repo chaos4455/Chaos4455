@@ -83,13 +83,6 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 ![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-0A0A0A?style=for-the-badge&logo=innovation&logoColor=white)
 ![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm%20AI-0A0A0A?style=for-the-badge&logo=prototyping&logoColor=white)
 
-💻 **DevOps Infrastructure Analyst** | 🐳 **Docker/Kubernetes** | ⚙️ **GitOps** (GitHub/GitHub Actions/ArgoCD)  
-🖥️ **Windows/Linux Server Administration** | ☁️ **VMware/Hyper-V Virtualization**  
-🐍 **Python Developer** | 🏗️ **Solution Architect & Backend Developer**  
-🛠️ **Microservices & Clean Architecture** | 🤖 **LLMOps, MLOps**  
-🧠 **Machine Learning & Generative AI** | 🔬 **Prototyping, Research & Innovation**  
-🚀 **Multi-Paradigm & Multi-Domain AI Solutions**
-
 ### 🎯 Objetivo Profissional
 
 Sou um **profissional de TI** com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
