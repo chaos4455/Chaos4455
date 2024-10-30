@@ -11,6 +11,12 @@ R$ 8.000,00 CLT - R$ 12.00,00 PJ
 ## 🎯 Objetivo Profissional
 Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
 
+### 🔄 Em Busca de Novos Desafios
+
+Estou animado para enfrentar novos desafios e contribuir com a minha experiência e paixão por tecnologia em uma nova organização. Estou à disposição para discutir oportunidades que possam se alinhar com meus objetivos e a visão da empresa.
+
+![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
+
 ## Informações de Contato 📞 📧 🏠
 
 - 🏠 **Localização:** Maringá, Paraná, Brasil
