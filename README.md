@@ -36,6 +36,10 @@ R$ 8.000,00 CLT - R$ 12.00,00 PJ
 - 📧 **E-mail:** elias.andrade@email.com
 - 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
 
+[![YouTube - Portfólio Replika AI Solutions](https://img.shields.io/badge/Portfólio_Replika_AI-YouTube-red?logo=youtube)](https://www.youtube.com/@Replika-AI-Solutions) 
+[![YouTube - Portfólio Evolução IT](https://img.shields.io/badge/Portfólio_Evolução_IT-YouTube-red?logo=youtube)](https://www.youtube.com/@evolucaoit-replikasistemas)
+
+
 ## 🎯 Objetivo Profissional
 Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
 
