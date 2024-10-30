@@ -32,6 +32,42 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
 
+## 📄 Currículo e Portfolio Principal
+
+- **[CV](https://github.com/chaos4455/CV)**  
+  🎓 Currículo e lista de conhecimentos e competências.  
+  - 🛠️ **Competências Técnicas**  
+    - **Desenvolvimento**:  
+      - Full Stack (Python, HTML, CSS, React, Node.js) ![Full Stack](https://img.shields.io/badge/Full_Stack-Experienced-yellowgreen)
+      - Frontend (Tailwind CSS, Next.js) ![Frontend](https://img.shields.io/badge/Frontend-Experienced-yellowgreen)
+      - Backend (Flask, FastAPI) ![Backend](https://img.shields.io/badge/Backend-Experienced-yellowgreen)
+  
+    - **Inteligência Artificial**:  
+      - Machine Learning ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Experienced-yellowgreen)
+      - Deep Learning (CNN, DNN, QNN) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Experienced-yellowgreen)
+      - Visão Computacional ![Visão Computacional](https://img.shields.io/badge/Visao_Computacional-Experienced-yellowgreen)
+  
+    - **DevOps e Automação**:  
+      - Ferramentas de CI/CD (Jenkins, GitLab CI/CD, GitHub Actions) ![CI/CD](https://img.shields.io/badge/CI_CD-Experienced-yellowgreen)
+      - Infraestrutura como Código (Terraform) ![IaC](https://img.shields.io/badge/IaC-Experienced-yellowgreen)
+
+    - **Análise de Dados**:  
+      - Pandas, NumPy ![Pandas](https://img.shields.io/badge/Pandas-Experienced-yellowgreen) ![NumPy](https://img.shields.io/badge/NumPy-Experienced-yellowgreen)
+      - Visualização de Dados (Matplotlib, Seaborn, Plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Experienced-yellowgreen) ![Seaborn](https://img.shields.io/badge/Seaborn-Experienced-yellowgreen)
+
+    - **Scripting**:  
+      - Python, Bash, PowerShell ![Python](https://img.shields.io/badge/Python-Experienced-yellowgreen) ![Bash](https://img.shields.io/badge/Bash-Experienced-yellowgreen) ![PowerShell](https://img.shields.io/badge/PowerShell-Experienced-yellowgreen)
+
+  - 📚 **Experiência e Projetos**:  
+    - Projetos em IA e Machine Learning ![Projetos IA](https://img.shields.io/badge/Projetos_IA-Experienced-yellowgreen)
+    - Desenvolvimento de Chatbots e Copilots ![Chatbots](https://img.shields.io/badge/Chatbots-Experienced-yellowgreen)
+  
+  - 🗣️ **Soft Skills**:  
+    - Comunicação Eficaz ![Comunicação](https://img.shields.io/badge/Comunicao-Eficaz-yellowgreen)
+    - Trabalho em Equipe ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho_em_Equipe-Eficaz-yellowgreen)
+    - Resolução de Problemas ![Resolução de Problemas](https://img.shields.io/badge/Resolucao_de_Problemas-Eficaz-yellowgreen)
+
+---
 
 ## 🛠️ Apresentação Técnica
 
@@ -107,12 +143,6 @@ Atualmente, estou em busca de **oportunidades remotas** para parcerias em projet
 ### [Certifica-es](https://github.com/chaos4455/Certifica-es)
 
 [![Certificações em Infraestrutura](https://img.shields.io/badge/Certificações-Infraestrutura-ff6600?style=for-the-badge)](https://github.com/chaos4455/Certifica-es)
-
-## Currículo e Portfolio Principal
-
-- **[CV](https://github.com/chaos4455/CV)**  
-  Currículo e lista de conhecimentos e competências.
----
 
 ### Tecnologias Principais
 
