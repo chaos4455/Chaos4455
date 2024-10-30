@@ -60,6 +60,8 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 ## 📄 Currículo e Portfolio Principal
 
 - **[📄 Leia meu Currículo Completo clicando aqui!](https://github.com/chaos4455/CV)**
+- 
+🚀 Confira meu [Currículo Interativo](https://chaos.static.domains/curriculo-elias-terminal-v1stilo) e explore minhas habilidades de forma divertida!
 
   🎓 Currículo e lista de conhecimentos e competências.  
   - 🛠️ **Competências Técnicas**  
