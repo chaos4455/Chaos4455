@@ -79,6 +79,11 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 # 🌟 **Destaque do Portfólio: Projeto RAG Avançado** 🌟
 
+<img width="689" alt="Cursor_PcRx3xCli3" src="https://github.com/user-attachments/assets/8d2fc207-ffe4-4cf8-9f4c-0d27f83d4c26">
+<img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
+<img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
+
+
 🚀 **Explore meu Repositório Avançado de RAG**! 🚀
 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
