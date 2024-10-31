@@ -27,7 +27,6 @@
 Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e momentos em família: [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
 
 ## 💰 Pretensão Salarial faixa à negociar 
-R$ 8.000,00 CLT - R$ 12.00,00 PJ
 
 ## Informações de Contato 📞 📧 🏠
 
