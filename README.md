@@ -79,6 +79,9 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 # 🌟 **Destaque do Portfólio: Projeto RAG Avançado** 🌟
 
+<img width="221" alt="Cursor_byyIKdx0Ns" src="https://github.com/user-attachments/assets/74d58df1-bf51-4c8d-8f1b-bb622e7faa52">
+<img width="201" alt="Cursor_wP3oSGAVXX" src="https://github.com/user-attachments/assets/44b86a71-bda4-4c26-9147-64dcc3a543e9">
+<img width="284" alt="Cursor_x2FPxXmTzM" src="https://github.com/user-attachments/assets/6c4a0c4f-1fd0-40c4-9933-7e0e05bbb068">
 <img width="689" alt="Cursor_PcRx3xCli3" src="https://github.com/user-attachments/assets/8d2fc207-ffe4-4cf8-9f4c-0d27f83d4c26">
 <img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
 <img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
