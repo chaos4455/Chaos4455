@@ -85,7 +85,6 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 <img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
 <img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
 
-
 🚀 **Explore meu Repositório Avançado de RAG**! 🚀
 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
@@ -112,9 +111,6 @@ Este projeto foca na integração de **Geração Aumentada por Recuperação (RA
 - **Inovação**: Este projeto representa o futuro da interação entre humanos e IA.
 - **Colaboração**: Estou aberto a colaborações e melhorias! Junte-se a mim para explorar novas ideias.
 - **Aprendizado**: Aprenda como implementar RAG em suas próprias aplicações!
-
-### 🎖️ **Badges de Contribuição**
-![GitHub stars](https://img.shields.io/github/stars/chaos4455/LLM-Advanced-RAG-Portfolio?style=social) ![Forks](https://img.shields.io/github/forks/chaos4455/LLM-Advanced-RAG-Portfolio) ![License](https://img.shields.io/github/license/chaos4455/LLM-Advanced-RAG-Portfolio) ![Issues](https://img.shields.io/github/issues/chaos4455/LLM-Advanced-RAG-Portfolio) 
 
 ---
 
