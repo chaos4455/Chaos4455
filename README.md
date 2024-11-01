@@ -76,7 +76,11 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
 
-# 🌟 **Destaque do Portfólio: Projeto RAG Avançado** 🌟
+# 🌟 **Projeto em Destaque** 🌟
+
+🚀 **Explore meu Repositório de implementação de um projeto de banco de dados vetorial e embeeding usando python, pandas e sqlite construindo do zero o banco de vetores - Aplicando conhecimento Avançado de RAG**! 🚀
+
+🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
 
 <img width="221" alt="Cursor_byyIKdx0Ns" src="https://github.com/user-attachments/assets/74d58df1-bf51-4c8d-8f1b-bb622e7faa52">
 <img width="201" alt="Cursor_wP3oSGAVXX" src="https://github.com/user-attachments/assets/44b86a71-bda4-4c26-9147-64dcc3a543e9">
@@ -85,21 +89,17 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 <img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
 <img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
 
-🚀 **Explore meu Repositório de implementação de um projeto de banco de dados vetorial e embeeding usando python, pandas e sqlite construindo do zero o banco de vetores - Aplicando conhecimento Avançado de RAG**! 🚀
-
-🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
-
 ---
 
-### 🚀 **Principais Características:**
+### 🚀 **Principais Características e benefícios de usar RAG em projetos de IA:**
 - **Alta Precisão**: Geração de respostas fundamentadas com informações de fontes confiáveis.
 - **Eficiência**: Otimização do fluxo de trabalho entre recuperação e geração de texto.
 - **Interface Amigável**: Design intuitivo para facilitar a interação do usuário.
 
 ### 🔧 **Tecnologias Utilizadas:**
-- **💻 Modelos de Linguagem**: Integração com LLMs como GPT-4.
+- **💻 Modelos de Linguagem**: Integração com LLMs como GPT-4 e google Gemini.
 - **📚 Algoritmos de Recuperação**: Técnicas avançadas para busca de dados relevantes.
-- **🔍 Ferramentas de Machine Learning**: TensorFlow, PyTorch, e muito mais!
+- **🔍 Ferramentas de Machine Learning**: TensorFlow, PyTorch, pandas..!
 
 ---
 
