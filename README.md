@@ -85,15 +85,11 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 <img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
 <img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
 
-🚀 **Explore meu Repositório Avançado de RAG**! 🚀
+🚀 **Explore meu Repositório de implementação de um projeto de banco de dados vetorial e embeeding usando python, pandas e sqlite construindo do zero o banco de vetores - Aplicando conhecimento Avançado de RAG**! 🚀
 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
 
 ---
-
-## 🏆 O que é o Projeto RAG?
-
-Este projeto foca na integração de **Geração Aumentada por Recuperação (RAG)** utilizando Modelos de Linguagem de Grande Escala (LLMs). Através da combinação de **recuperação de informações** e **geração de texto**, proporcionamos respostas mais precisas e contextuais em aplicações de IA.
 
 ### 🚀 **Principais Características:**
 - **Alta Precisão**: Geração de respostas fundamentadas com informações de fontes confiáveis.
