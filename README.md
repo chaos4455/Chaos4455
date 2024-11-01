@@ -76,8 +76,12 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
 
-# 🌟 **Projeto em Destaque** 🌟
+---
+---
 
+# 🌟 **Projeto em Destaque** 🌟
+---
+---
 # 🚀 Meu Portfólio de DevOps: Kubernetes Microservice Architecture
 
 Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevOps**, **Kubernetes**, **Docker**, **GitOps**, **CI/CD**, e muito mais! 🌐💻
@@ -115,13 +119,9 @@ Neste repositório, você encontrará um projeto robusto que demonstra minha cap
 
 Este repositório não é apenas uma coleção de scripts e configurações; ele é uma vitrine do meu **background técnico** e **competências em DevOps**. Desde a concepção até a execução, cada componente foi projetado com o objetivo de criar uma solução que não só atenda às necessidades do usuário, mas que também seja escalável e sustentável no longo prazo. 🌍🔝
 
-## 📈 Conclusão
 
-Convido você a explorar meu repositório [Kubernetes MicroService Architect Portfolio](https://github.com/chaos4455/Kubernetes-MicroService-Archtect-Portfolio) e testemunhar meu domínio nas práticas de **DevOps** e **containerização**. Este é o estado da arte em orquestração de contêineres, onde a inovação e a eficiência se encontram! 💼🔥
-
-Se você deseja discutir mais sobre as tecnologias apresentadas ou colaborar em futuros projetos, não hesite em entrar em contato! 🚀💬
-
-
+---
+---
 🚀 **Explore meu Repositório de implementação de um projeto de banco de dados vetorial e embeeding usando python, pandas e sqlite construindo do zero o banco de vetores - Aplicando conhecimento Avançado de RAG**! 🚀
 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
