@@ -14,7 +14,7 @@
 ![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-0A0A0A?style=for-the-badge&logo=innovation&logoColor=white)
 ![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm%20AI-0A0A0A?style=for-the-badge&logo=prototyping&logoColor=white)
 
-![Mubb3gEkKy](https://github.com/user-attachments/assets/f16e0877-1b25-47f5-a1b2-d0e795b9ff92)
+![FB_IMG_1707845486777](https://github.com/user-attachments/assets/b84ea0ce-ca55-42aa-97ab-c615b27b196d)
 
 
 ### 📈 Estatísticas no GitHub
