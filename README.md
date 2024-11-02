@@ -35,6 +35,39 @@ Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e 
 - 📧 **E-mail:** elias.andrade@email.com
 - 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
 
+# Tabela de Preços e Salários 💼💰
+
+| Tipo de Contratação      | Salário Fixo Mensal (R$) | Observações                           |
+|--------------------------|--------------------------|--------------------------------------|
+| **CLT Remoto**           | ![💵 5.500](https://img.shields.io/badge/R$-5.500-brightgreen)  | Salário fixo mensal                  |
+|                          | ![💵 6.500](https://img.shields.io/badge/R$-6.500-brightgreen)  |                                      |
+| **PJ**                   | ![💵 7.500](https://img.shields.io/badge/R$-7.500-brightgreen)  | Salário fixo mensal                  |
+|                          | ![💵 8.500](https://img.shields.io/badge/R$-8.500-brightgreen)  |                                      |
+
+---
+
+## Projetos de Infraestrutura e DevOps 🔧
+
+| Tipo de Projeto                | Preço (R$/hora) | Badge de Preço                      |
+|--------------------------------|------------------|-------------------------------------|
+| **Infraestrutura e DevOps**    | ![🔧 120](https://img.shields.io/badge/R$-120-brightblue)   | Projeto de infraestrutura e DevOps   |
+
+---
+
+## Projetos de IA e Machine Learning 🤖
+
+| Tipo de Projeto                | Preço (R$/hora) | Badge de Preço                      |
+|--------------------------------|------------------|-------------------------------------|
+| **IA e ML**                    | ![🤖 180](https://img.shields.io/badge/R$-180-blueviolet)   | Projeto de IA e Machine Learning    |
+| **Consultorias**               | ![🤖 180](https://img.shields.io/badge/R$-180-blueviolet)   | Consultoria nas áreas de IA e ML    |
+
+---
+
+### Observações 📋
+- Os valores são fixos e podem variar de acordo com a complexidade do projeto e a experiência da equipe.
+- Para mais informações sobre projetos e consultorias, entre em contato!
+
+
 # 🚀 Vamos Agendar uma Conversa!
 
 Se você está buscando discutir ideias, explorar parcerias ou quer saber mais sobre como posso ajudar em seus projetos, ficarei feliz em conversar com você! Marque uma reunião online para falarmos sobre **Inteligência Artificial**, **DevOps**, **Automação** e muito mais!
