@@ -117,8 +117,6 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 ---
 # 🚀 Meu Portfólio de DevOps: Kubernetes Microservice Architecture
 
-<img width="445" alt="K8Studio_XJhpXpK2rE" src="https://github.com/user-attachments/assets/b13c2c1f-e989-4525-935c-02ac5f022082">
-
 Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevOps**, **Kubernetes**, **Docker**, **GitOps**, **CI/CD**, e muito mais! 🌐💻
 
 Clique aqui para ir para o repositório 
