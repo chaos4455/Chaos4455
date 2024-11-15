@@ -171,6 +171,15 @@ Este repositório não é apenas uma coleção de scripts e configurações; ele
 🚀 **Explore meu Repositório de implementação de um projeto de banco de dados vetorial e embeeding usando python, pandas e sqlite construindo do zero o banco de vetores - Aplicando conhecimento Avançado de RAG**! 🚀
 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
+![Cursor_tGnvhhQSoI](https://github.com/user-attachments/assets/104b2366-1d78-42ec-b98f-3cc5cb5c1253)
+![heatmap_clusters_20241109_204428_e8d56ca0](https://github.com/user-attachments/assets/336f1d84-be23-4e29-899f-6242dc8acde6)
+![Cursor_4vBTwnlS85](https://github.com/user-attachments/assets/7adf2031-7f2a-4125-9c5b-41d84e2cf17f)
+![python_h4upCXwov8](https://github.com/user-attachments/assets/2b09a5c0-fd4d-4ce3-99d9-f85e4eed2ede)
+![mesh3d_side_f31ae098](https://github.com/user-attachments/assets/a7174d94-fd8f-4b5c-a408-bc86b9613d29)
+![tech_clusters_3d_20241109_213200_25da37e9](https://github.com/user-attachments/assets/299746ab-0cc6-4044-9676-6e8135ea92ed)
+![dendrograma_20241109_213851_ddc2af3b](https://github.com/user-attachments/assets/50cf3cfa-e1dd-4e89-ad59-9100a64ae916)
+![visualizacao_3d_4](https://github.com/user-attachments/assets/8353a5a3-8ee8-412a-baf5-810fc73c2b26)
+
 
 <img width="221" alt="Cursor_byyIKdx0Ns" src="https://github.com/user-attachments/assets/74d58df1-bf51-4c8d-8f1b-bb622e7faa52">
 <img width="201" alt="Cursor_wP3oSGAVXX" src="https://github.com/user-attachments/assets/44b86a71-bda4-4c26-9147-64dcc3a543e9">
@@ -655,5 +664,9 @@ Outros projetos e IA Generativa - Redes neurais e machine learning.
 
 _© 2024 chaos4455. Este README.md foi criado com ❤️ e criatividade._
 Isadora, te amo minha filha! 👧💖
+
+
+🚀 **Explore alguns exemplos de projetos que tenho desenvolvido na área de micro SAAS e IA**! 🚀
+
 
 ---
