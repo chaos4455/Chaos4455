@@ -32,7 +32,7 @@ Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e 
 
 - 🏠 **Localização:** Maringá, Paraná, Brasil
 - 📞 **Telefone:** +55 (44) 98765-4321
-- 📧 **E-mail:** elias.andrade@email.com
+- 📧 **E-mail:** oeliasandrade@gmail.com
 - 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
 
 # Tabela de Preços e Salários 💼💰
