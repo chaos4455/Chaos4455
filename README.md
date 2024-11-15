@@ -119,33 +119,6 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 <img width="445" alt="K8Studio_XJhpXpK2rE" src="https://github.com/user-attachments/assets/b13c2c1f-e989-4525-935c-02ac5f022082">
 
-![K8Studio_aDScRN5XR1](https://github.com/user-attachments/assets/3fbadba6-7124-4d4c-be6e-a611edd449db)
-
-![K8Studio_gaXPiL1UNm](https://github.com/user-attachments/assets/feb96add-6778-4eb4-9923-046f3f2259cc)
-
-![K8Studio_BbhYQ9K9bf](https://github.com/user-attachments/assets/6a61cf7e-c499-4da9-a6d3-c4a439fc1f7d)
-
-![K8Studio_yZRaOoDazH](https://github.com/user-attachments/assets/4755fbc6-acb9-4448-aff0-26676b98b06d)
-
-![K8Studio_t83xPb5YGT](https://github.com/user-attachments/assets/73cf0951-4090-4dd1-a8cc-fcb39851f949)
-
-![K8Studio_fROR1vnLh0](https://github.com/user-attachments/assets/9fe93de1-575c-425c-8898-8300cf6a0e1b)
-
-![K8Studio_8if0NGTnJ7](https://github.com/user-attachments/assets/faab995a-c278-4d82-9aa2-9f7ad5e6b1b8)
-
-![chrome_g3MFOzVowF](https://github.com/user-attachments/assets/f690f9ab-53a6-4788-9ef1-e29df2919525)
-
-![chrome_OOUhtZ3QHL](https://github.com/user-attachments/assets/4a42c81f-7d5e-4ec2-8015-df9695f228ec)
-
-![chrome_uW7jeHFq3r](https://github.com/user-attachments/assets/fcb77c18-b771-42c0-9855-213217683d1a)
-
-![chrome_Yd4nQdpRWP](https://github.com/user-attachments/assets/aea32094-47c1-45fb-9562-4722c3169385)
-
-![chrome_xgRcEsNnaS](https://github.com/user-attachments/assets/b7326263-d512-4828-b0bc-e087f03af0e3)
-
-![chrome_zoouT3rHsD](https://github.com/user-attachments/assets/e1d85468-023f-418a-8c08-00fb7a00878f)
-
-
 Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevOps**, **Kubernetes**, **Docker**, **GitOps**, **CI/CD**, e muito mais! 🌐💻
 
 Clique aqui para ir para o repositório 
