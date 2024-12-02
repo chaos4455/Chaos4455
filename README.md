@@ -48,7 +48,7 @@ Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e 
 
 ## Projetos de Infraestrutura e DevOps 🔧
 
-| Tipo de Projeto                | Preço (R$/hora) | Valor mínimo por hora                |
+| Tipo de Projeto                | Preço (R$/hora) | Tipo do serviço a ser executado      |
 |--------------------------------|------------------|-------------------------------------|
 | **Infraestrutura e DevOps**    | ![🔧 120](https://img.shields.io/badge/R$-120-brightblue)   | Projeto de infraestrutura e DevOps   |
 
@@ -56,7 +56,7 @@ Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e 
 
 ## Projetos de IA e Machine Learning 🤖
 
-| Tipo de Projeto                | Preço (R$/hora) | Valor mínimo por hora                |
+| Tipo de Projeto                | Preço (R$/hora) | Tipo do serviço a ser executado      |
 |--------------------------------|------------------|-------------------------------------|
 | **IA e ML**                    | ![🤖 180](https://img.shields.io/badge/R$-180-blueviolet)   | Projeto de IA e Machine Learning    |
 | **Consultorias**               | ![🤖 180](https://img.shields.io/badge/R$-180-blueviolet)   | Consultoria nas áreas de IA e ML    |
