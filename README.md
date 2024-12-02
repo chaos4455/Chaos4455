@@ -31,7 +31,7 @@ Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e 
 ## Informações de Contato 📞 📧 🏠
 
 - 🏠 **Localização:** Maringá, Paraná, Brasil
-- 📞 **Telefone:** +55 (44) 98765-4321
+- 📞 **Telefone:** +55 (11) 9-1135-3137
 - 📧 **E-mail:** oeliasandrade@gmail.com
 - 🌐 **LinkedIn:** [linkedin.com/in/itilmgf](https://www.linkedin.com/in/itilmgf)
 
