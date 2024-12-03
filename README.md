@@ -59,7 +59,7 @@ Se você está procurando um **profissional comprometido**, com uma **visão amp
 
 ---
 
-### 🏆 **Badges**:
+### 🏆 **àreas de alto interesse**:
 - ![DevOps Badge](https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops)
 - ![Docker Badge](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
 - ![GitOps Badge](https://img.shields.io/badge/GitOps-000000?style=flat&logo=git)
