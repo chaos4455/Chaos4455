@@ -17,7 +17,7 @@
 # Elias dos Santos de Andrade 🚀
 ### Arquiteto de Soluções de IA | Full Stack Python 🐍 | DevOps | IAops | LLMops | MLops | Microservices | Automação | Pesquisa e Inovação
 
-📍 **Localização**: Remoto | 🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)
+📍 **Localização**: Maringá -  Paraná  | 🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)
 
 🔧 **Especialidades**:
 - **Desenvolvimento de Software** 💻
