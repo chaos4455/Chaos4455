@@ -87,6 +87,36 @@ Se você está procurando um **profissional comprometido**, com uma **visão amp
 
 👉 **Acesse agora e explore: [Hugging Face - chaos4455](https://huggingface.co/chaos4455)**
 
+## 🚀 **Explorar Spaces no Hugging Face**  
+🎯 **Conheça aplicações interativas desenvolvidas para análise, automação e IA avançada.**  
+
+### 🔍 **1. Análise de Currículo com IA**  
+[![Analise-Curriculo](https://img.shields.io/badge/Análise%20de%20Currículo-%F0%9F%93%9D%20Insights%20Profissionais-blue?style=for-the-badge)](https://huggingface.co/spaces/chaos4455/Analise-Curriculo)  
+✨ Use IA para avaliar currículos, gerando insights detalhados sobre qualificações, experiência e habilidades.
+
+---
+
+### 🐳 **2. Docker AI YAML Template Generator**  
+[![Docker-YAML](https://img.shields.io/badge/Docker%20AI%20Template-%F0%9F%90%B2%20Geração%20Automatizada-blueviolet?style=for-the-badge)](https://huggingface.co/spaces/chaos4455/Docker-AI-Yaml-Template-Generator)  
+🛠️ Geração automatizada de templates YAML para ambientes Docker, simplificando o desenvolvimento DevOps com IA.
+
+---
+
+### 🧠 **3. Prometheus DSSAI - Copiloto de IA de Última Geração** *(Privado)*  
+[![Prometheus](https://img.shields.io/badge/Prometheus%20DSSAI-%F0%9F%A7%A0%20Copiloto%20Avançado-lightgrey?style=for-the-badge)](#)  
+🚀 Um copiloto de IA avançado, projetado para automação inteligente e interação em tempo real.
+
+---
+
+### 🎨 **4. TailwindGen Gemini Flash 1.5**  
+[![TailwindGen](https://img.shields.io/badge/TailwindGen-%F0%9F%96%8C%EF%B8%8F%20Análise%20UI%20|%20UX-yellowgreen?style=for-the-badge)](https://huggingface.co/spaces/chaos4455/TailwindGen-Gemini-Flash-1.5)  
+🔎 Aplicação de **Visão Computacional** usando Google Gemini Flash Vision para auditoria de interfaces UI/UX e controle de qualidade.
+
+---
+
+### 🌟 **Explore mais: [Meu Perfil no Hugging Face](https://huggingface.co/chaos4455)**  
+
+
 ---
 
 
