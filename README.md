@@ -224,6 +224,8 @@ Este repositório não é apenas uma coleção de scripts e configurações; ele
 🚀 **Explore meu Repositório de implementação de um projeto de banco de dados vetorial e embeeding usando python, pandas e sqlite construindo do zero o banco de vetores - Aplicando conhecimento Avançado de RAG**! 🚀
 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
+
+
 ![Cursor_tGnvhhQSoI](https://github.com/user-attachments/assets/104b2366-1d78-42ec-b98f-3cc5cb5c1253)
 ![heatmap_clusters_20241109_204428_e8d56ca0](https://github.com/user-attachments/assets/336f1d84-be23-4e29-899f-6242dc8acde6)
 ![Cursor_4vBTwnlS85](https://github.com/user-attachments/assets/7adf2031-7f2a-4125-9c5b-41d84e2cf17f)
