@@ -67,14 +67,17 @@ Se você está procurando um **profissional comprometido**, com uma **visão amp
 - ![MLops Badge](https://img.shields.io/badge/MLops-000000?style=flat&logo=tensorflow)
 - ![AI Badge](https://img.shields.io/badge/AI-000000?style=flat&logo=ai)
 
-## 🌟 **Explore Projetos de IA no Hugging Face**  
-🎯 **Clique e teste soluções inovadoras em IA** diretamente na plataforma!  
-
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-chaos4455-orange?logo=huggingface&style=for-the-badge)](https://huggingface.co/chaos4455)  
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-%F0%9F%A4%96%20LLM%20|%20Google%20Gemini-blue?style=flat-square)](#)  
 [![Copilotos Inteligentes](https://img.shields.io/badge/Copilotos%20Inteligentes-%F0%9F%92%BB%20Automação%20Avançada-red?style=flat-square)](#)  
 [![Visão Computacional](https://img.shields.io/badge/Visão%20Computacional-%F0%9F%93%B7%20Processamento%20de%20Imagens-brightgreen?style=flat-square)](#)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-🚀%20MVPs%20e%20POCs%20Interativos-ff69b4?style=flat-square)](#)  
+
+
+## 🌟 **Explore Projetos de IA no Hugging Face**  
+🎯 **Clique e teste soluções inovadoras em IA** diretamente na plataforma!  
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-chaos4455-orange?logo=huggingface&style=for-the-badge)](https://huggingface.co/chaos4455)  
+
 
 ✨ **Destaques dos projetos:**  
 - 🤖 **LLMs e IA Generativa:** Aplicações avançadas usando Google Gemini e outros LLMs.  
