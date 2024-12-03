@@ -20,12 +20,12 @@
 📍 **Localização**: Maringá -  Paraná  | 🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)
 
 🔧 **Especialidades**:
-- **Desenvolvimento de Software** 💻
+- **Desenvolvimento de Software e APIs** 💻
 - **Infraestrutura e Automação** 🏗️
 - **Arquitetura de Soluções de IA e Microservices** 🧠
-- **Processos e Metodologias Ágeis** 📈
+- **Gestão de projetos, melhoria de Processos e ITSM** 📈
 - **Integração de Sistemas e Pipelines de Dados** 📊
-- **Automação e Inovação com IA** 🤖
+- **Automação e Inovação com IA, Machine Learning, LLMs e visão computacional** 🤖
 
 ---
 
