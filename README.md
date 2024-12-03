@@ -1,5 +1,3 @@
-# **Elias Andrade** 🚀  
-
 ## 🛠️ Apresentação Técnica
 
 ![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
