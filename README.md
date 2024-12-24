@@ -62,7 +62,7 @@ Se você está procurando um **profissional comprometido**, com uma **visão amp
 🚀 **Quer explorar mais sobre os meus treinamentos e certificações?**  
 📌 Acesse meu repositório no GitHub, onde documentei todas as conquistas em **2024** e anos anteriores!  
 
-## 🟣 **Certificações e Treinamentos - Destaques em Badges** 🟣  
+## 🟣 **Certificados e Treinamentos - Roadmap de cursos e treinamentos recentes e relevantes** 🟣  
 
 Aqui estão os principais destaques das minhas certificações e treinamentos documentados! 👇  
 
