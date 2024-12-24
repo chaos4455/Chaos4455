@@ -57,6 +57,18 @@ Estou em busca de **novos desafios** em **empresas que busquem inovação**, **a
 ### 💬 **Vamos Conversar!**
 Se você está procurando um **profissional comprometido**, com uma **visão ampla** e **habilidades multifacetadas** para agregar valor à sua equipe e projetos, entre em contato comigo! Eu adoraria discutir como posso contribuir para o sucesso da sua empresa.
 
+## 📚 **Repositório de Certificações e Treinamentos**  
+
+🚀 **Quer explorar mais sobre os meus treinamentos e certificações?**  
+📌 Acesse meu repositório no GitHub, onde documentei todas as conquistas em **2024** e anos anteriores!  
+
+[![Explore o Repositório](https://img.shields.io/badge/GitHub-Treinamentos%20e%20Certificações-black?logo=github&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+
+🔍 **O que você vai encontrar?**  
+- 🛠️ Detalhes sobre cursos de Kubernetes, DevOps, Azure e muito mais!  
+- 🎓 Certificações organizadas e documentadas com links, instituições e competências adquiridas.  
+- 📂 Atualizações constantes com novos aprendizados e conhecimentos adquiridos.
+
 ---
 
 ### 🏆 **àreas de alto interesse**:
