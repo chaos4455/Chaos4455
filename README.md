@@ -62,7 +62,19 @@ Se você está procurando um **profissional comprometido**, com uma **visão amp
 🚀 **Quer explorar mais sobre os meus treinamentos e certificações?**  
 📌 Acesse meu repositório no GitHub, onde documentei todas as conquistas em **2024** e anos anteriores!  
 
-[![Explore o Repositório](https://img.shields.io/badge/GitHub-Treinamentos%20e%20Certificações-black?logo=github&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+## 🟣 **Certificações e Treinamentos - Destaques em Badges** 🟣  
+
+Aqui estão os principais destaques das minhas certificações e treinamentos documentados! 👇  
+
+[![GitHub - Repositório de Treinamentos](https://img.shields.io/badge/GitHub-Treinamentos%20e%20Certificações-6f42c1?logo=github&style=for-the-badge)](https://github.com/chaos4455/Treinamentos-2024)  
+[![Kubernetes Certificado](https://img.shields.io/badge/Kubernetes-Ambientes%20de%20Desenvolvimento-6f42c1?logo=kubernetes&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+[![Docker Expert](https://img.shields.io/badge/Docker-Criação%20de%20Imagens%20de%20Containers-6f42c1?logo=docker&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+[![DevOps Mastery](https://img.shields.io/badge/DevOps-CI%2FCD%20e%20Processos%20Agéis-6f42c1?logo=devops&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+[![Azure Certification](https://img.shields.io/badge/Azure-Integração%20e%20Infraestrutura%20Completa-6f42c1?logo=microsoft-azure&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+[![ISO 27001 Compliance](https://img.shields.io/badge/ISO%2027001-Gestão%20de%20Segurança-6f42c1?logo=security&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+[![Zabbix Monitoring](https://img.shields.io/badge/Zabbix-Monitoramento%20Avançado%20v5-6f42c1?logo=zabbix&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+[![Nmap Advanced](https://img.shields.io/badge/Nmap-Análise%20de%20Segurança-6f42c1?logo=nmap&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
+[![Hyper-V Virtualization](https://img.shields.io/badge/Hyper--V-Virtualização%20Avançada-6f42c1?logo=windows&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
 
 🔍 **O que você vai encontrar?**  
 - 🛠️ Detalhes sobre cursos de Kubernetes, DevOps, Azure e muito mais!  
