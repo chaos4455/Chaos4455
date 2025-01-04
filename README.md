@@ -116,7 +116,6 @@ Fique à vontade para **explorar o código-fonte no repositório GitHub** e **te
   </a>
 </p>
 
-_Elias Andrade_
 
 Durante os anos de **2018 a 2023**, foquei minha carreira em **pesquisa e desenvolvimento** de micro sistemas com ênfase em **Python**, **Inteligência Artificial (IA)** e **Machine Learning (ML)**. Em 2018, decidi dedicar-me inteiramente ao estudo e aprimoramento dessas tecnologias, consultando mais de **400 livros** sobre **IA e ML**, desde os clássicos dos anos 80 até as mais recentes inovações.
 
