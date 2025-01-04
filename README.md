@@ -37,6 +37,16 @@ Sou um profissional autodidata com mais de **15 anos de experiência** na área 
 Projeto mais recente: 04 01 2025 - 
 
 # 🖼️ Bert-Powered PDF Image Extraction & Markup 
+![page_5](https://github.com/user-attachments/assets/09541e9e-d00a-473b-89aa-bcadc161976c)
+
+![page_8](https://github.com/user-attachments/assets/c1de53eb-bf06-46e5-add2-df00b0922516)
+
+![page_2](https://github.com/user-attachments/assets/5c95b788-d07f-4979-bd54-a6012a2fcf9b)
+
+![page_20](https://github.com/user-attachments/assets/20fc0978-3a1a-4005-8f42-8fc0e00af8a2)
+
+![page_11](https://github.com/user-attachments/assets/9af312db-527d-4424-a094-6fd36838a5f8)
+
 
 <p align="center">
   <a href="https://huggingface.co/spaces/chaos4455/Bert-Vector-Semantic-PDF-Image-Extration-V1">
