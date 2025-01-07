@@ -47,9 +47,7 @@ Bem-vindo(a) ao meu **canal no YouTube**, onde apresento meus projetos, soluçõ
 ---
 
 ### ⭐ **Inscreva-se e acompanhe!**  
-🎬 **Não perca nenhum projeto ou tutorial!**  
-🔔 **Ative o sininho para receber notificações e ficar por dentro das atualizações.**  
-📈 **Deixe seu feedback e participe da nossa comunidade!**
+🔔 **Ative o sininho para receber notificações e ficar por dentro das atualizações dos meus projetos.**  
 
 ### 🛑 **VISITE AGORA!**  
 [![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
