@@ -46,12 +46,6 @@ Bem-vindo(a) ao meu **canal no YouTube**, onde apresento meus projetos, soluçõ
 
 ---
 
-### 🛠️ **Explore meu trabalho e inspire-se!**  
-📌 **Link direto para o canal:**  
-[![YouTube - Elias Andrade LLM](https://img.shields.io/badge/YouTube-Elias_Andrade_LLM-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)  
-
----
-
 ### ⭐ **Inscreva-se e acompanhe!**  
 🎬 **Não perca nenhum projeto ou tutorial!**  
 🔔 **Ative o sininho para receber notificações e ficar por dentro das atualizações.**  
