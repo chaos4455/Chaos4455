@@ -35,7 +35,7 @@ Sou um profissional autodidata com mais de **15 anos de experiência** na área 
 
 # 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
 
-Bem-vindo(a) ao meu **canal no YouTube**, onde apresento meus projetos, soluções inovadoras em inteligência artificial, machine learning, visão computacional, DevOps e muito mais! 🚀  
+Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, soluções inovadoras em inteligência artificial, machine learning, visão computacional, DevOps e muito mais! 🚀  
 
 ### 🌟 **O que você encontrará no meu canal?**
 - 🧠 **Soluções em IA Generativa e LLMs**  
