@@ -33,6 +33,39 @@
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
+# 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
+
+Bem-vindo(a) ao meu **canal no YouTube**, onde apresento meus projetos, soluções inovadoras em inteligência artificial, machine learning, visão computacional, DevOps e muito mais! 🚀  
+
+### 🌟 **O que você encontrará no meu canal?**
+- 🧠 **Soluções em IA Generativa e LLMs**  
+- 📊 **Automação e Análise de Dados**  
+- 🤖 **Chatbots Inteligentes e Copilots**  
+- 🖥️ **DevOps, CI/CD e Infraestrutura Cloud**  
+- 🎥 **Tutoriais Práticos e Demonstrações de Projetos**
+
+---
+
+### 🛠️ **Explore meu trabalho e inspire-se!**  
+📌 **Link direto para o canal:**  
+[![YouTube - Elias Andrade LLM](https://img.shields.io/badge/YouTube-Elias_Andrade_LLM-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)  
+
+---
+
+### ⭐ **Inscreva-se e acompanhe!**  
+🎬 **Não perca nenhum projeto ou tutorial!**  
+🔔 **Ative o sininho para receber notificações e ficar por dentro das atualizações.**  
+📈 **Deixe seu feedback e participe da nossa comunidade!**
+
+### 🛑 **VISITE AGORA!**  
+[![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+
+---
+
+🤝 **Vamos conectar!**  
+
+Sinta-se à vontade para explorar o canal e entrar em contato para oportunidades, colaborações ou simplesmente trocar ideias! 🌍  
+
 
 Projeto mais recente: 04 01 2025 - 
 
