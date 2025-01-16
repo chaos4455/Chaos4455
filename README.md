@@ -15,7 +15,7 @@
 ![FB_IMG_1707845486777](https://github.com/user-attachments/assets/b84ea0ce-ca55-42aa-97ab-c615b27b196d)
 
 # Elias dos Santos de Andrade 🚀
-### Arquiteto de Soluções de IA | Full Stack Python 🐍 | DevOps | IAops | LLMops | MLops | Microservices | Automação | Pesquisa e Inovação
+### Arquiteto de Soluções DevOps e IA Multi-Agent | (Docker/Kubernetes) 🐳 | Infra | IAops | LLMops | MLops - Gitops - Microsserviços | LLMs (Llama3 🦙, Google Gemini ♊) | Full Stack Python 🐍
 
 📍 **Localização**: Maringá -  Paraná  | 🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)
 
