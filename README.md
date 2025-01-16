@@ -123,7 +123,10 @@ Aqui estão os principais destaques das minhas certificações e treinamentos do
 
 
 ## 🌟 **Explore Projetos de IA no Hugging Face**  
-🎯 **Clique e teste soluções inovadoras em IA** diretamente na plataforma!  
+
+**Explore meu trabalho detalhado usando IA pra criar automações sofisticadas de IAC para ansible, terraform, docker, etc. Confira:** **[GitHub - Google-Gemini-IA-IAC-Automation-Gen-Portfolio](https://github.com/chaos4455/Google-Gemini-IA-IAC-Automation-Gen-Portfolio)**
+
+🎯 **Acesse meu perfil completo no hugging face (em breve irei liberar ao longo de 2025 mais de 100 micro aplicações de IA Devops e IAC) - clique e teste soluções inovadoras em IA** diretamente na plataforma!  
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-chaos4455-orange?logo=huggingface&style=for-the-badge)](https://huggingface.co/chaos4455)  
 
@@ -133,8 +136,6 @@ Aqui estão os principais destaques das minhas certificações e treinamentos do
 - 🧠 **Copilotos e Automação:** Desenvolvendo agentes autônomos e copilotos personalizados.  
 - 📸 **Visão Computacional:** Processamento de imagens e vídeos para soluções robustas.  
 - 📊 **Aplicações em Streamlit:** Mais de **600 microaplicações** criadas em 2024.
-
-👉 **Acesse agora e explore: [Hugging Face - chaos4455](https://huggingface.co/chaos4455)**
 
 ## 🚀 **Explorar Spaces no Hugging Face**  
 🎯 **Conheça aplicações interativas desenvolvidas para análise, automação e IA avançada.**  
