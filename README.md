@@ -164,8 +164,6 @@ Aqui estão os principais destaques das minhas certificações e treinamentos do
 
 ---
 
-### 🌟 **Explore mais: [Meu Perfil no Hugging Face](https://huggingface.co/chaos4455)**  
-
 # 🧑‍💻 **Athena ITSM Copilot – Chatbot para Help Desk e Operações ITSM**  
 
 🚀 O **Athena ITSM Copilot** é um chatbot avançado, desenvolvido para otimizar operações de **Help Desk** e **IT Service Management (ITSM)**, oferecendo respostas em tempo real e insights baseados em dados.  
@@ -224,7 +222,6 @@ Aqui estão os principais destaques das minhas certificações e treinamentos do
 ### 🌟 **Explore mais:**  
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Huggingface--Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/chaos4455/Huggingface-Portfolio)  
-
 
 ---
 
