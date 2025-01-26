@@ -33,7 +33,10 @@
 
 📍 **Localização**: Maringá -  Paraná  | 🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)
 
-🔧 **Especialidades**:
+🔧 **Especialista atuando na área de T.I desde 2010**:
+
+- **Tecnólogo em gestão de T.I - Estácio 2024/2024 - Ensino Superior Completo** 💻
+
 - **Desenvolvimento de Software e APIs** 💻
 - **Infraestrutura e Automação** 🏗️
 - **Arquitetura de Soluções de IA e Microservices** 🧠
