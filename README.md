@@ -38,12 +38,12 @@
 
 - **Tecnólogo em gestão de T.I - Estácio 2024/2024 - Ensino Superior Completo** 💻
 
-- **Desenvolvimento de Software e APIs** 💻
-- **Infraestrutura e Automação** 🏗️
-- **Arquitetura de Soluções de IA e Microservices** 🧠
+- **Projetos, implementação e gestão de servidores** 💻
+- **Infraestrutura, virtualização e Automação** 🏗️
+- **Arquitetura de Soluções de IA, sistemas e Microservices** 🧠
 - **Gestão de projetos, melhoria de Processos e ITSM** 📈
-- **Integração de Sistemas e Pipelines de Dados** 📊
-- **Automação e Inovação com IA, Machine Learning, LLMs e visão computacional** 🤖
+- **Integração de Sistemas, apis, ML, BI e Pipelines de Dados** 📊
+- **Automação e Inovação com IA generativa, text2text, txt2img, txt2audio, etc, Google Gemini API, BERT, NLP, LLMs e visão computacional** 🤖
 
 ---
 
