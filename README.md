@@ -31,7 +31,8 @@
 # Elias Andrade 🚀
 ### Arquiteto de Infraestrutura, inovação e Soluções DevOps e IA Multi-Agent | (Docker/Kubernetes) 🐳 | Infra | IAops | LLMops | MLops - Gitops - Microsserviços | LLMs (Llama3 🦙, Google Gemini ♊) | Full Stack Python 🐍
 
-📍 **Localização**: Maringá -  Paraná  | 🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)
+📍 **Localização**: Maringá - Paraná  🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)  💼 **LinkedIn**: [itilmgf](https://www.linkedin.com/in/itilmgf/)
+
 
 🔧 **Especialista atuando na área de T.I desde 2010**:
 
