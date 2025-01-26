@@ -114,12 +114,6 @@ Aqui estão os principais treinamentos e cursos que fiz recentemente - Ao total 
 ---
 
 ### 🏆 **àreas de alto interesse**:
-- ![DevOps Badge](https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops)
-- ![Docker Badge](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
-- ![GitOps Badge](https://img.shields.io/badge/GitOps-000000?style=flat&logo=git)
-- ![Python Badge](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-- ![MLops Badge](https://img.shields.io/badge/MLops-000000?style=flat&logo=tensorflow)
-- ![AI Badge](https://img.shields.io/badge/AI-000000?style=flat&logo=ai)
 
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-%F0%9F%A4%96%20LLM%20|%20Google%20Gemini-blue?style=flat-square)](#)  
 [![Copilotos Inteligentes](https://img.shields.io/badge/Copilotos%20Inteligentes-%F0%9F%92%BB%20Automação%20Avançada-red?style=flat-square)](#)  
