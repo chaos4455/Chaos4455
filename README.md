@@ -222,12 +222,7 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
 
----
----
 
-# 🌟 **Projeto em Destaque** 🌟
----
----
 # 🚀 Meu Portfólio de DevOps: Kubernetes Microservice Architecture
 
 Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevOps**, **Kubernetes**, **Docker**, **GitOps**, **CI/CD**, e muito mais! 🌐💻
@@ -252,85 +247,14 @@ Clique aqui para ir para o repositório
 
 [![Load Balancer](https://img.shields.io/badge/Load_Balancer-32CD32?style=for-the-badge&logo=cloudflare&logoColor=white)](https://kubernetes.io/docs/concepts/services-networking/service/#loadbalancer)  
 
-[![Helm](https://img.shields.io/badge/Helm-327A8C?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)  
-
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)  
-
-[![Cloud Native](https://img.shields.io/badge/Cloud_Native-FF3E00?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io)  
-
-## 🌟 Sobre o Projeto
-
-Neste repositório, você encontrará um projeto robusto que demonstra minha capacidade de **provisionar ambientes containerizados** com tecnologias de ponta, abrangendo desde a criação de **Dockerfiles** até a configuração de **Kubernetes** e práticas avançadas de **GitOps**. 💪✨
-
-### O que você vai encontrar aqui:
-
-- **Docker e Kubernetes**: Domínio completo na criação e gerenciamento de contêineres, com orquestração avançada usando Kubernetes. Aprenda como eu configurei **Deployments**, **ReplicaSets**, **Ingress**, e **Load Balancers** para garantir alta disponibilidade e escalabilidade. 🚢🔧
-
-- **GitOps com Argo CD**: Implementação de pipelines CI/CD que utilizam **Argo CD** para gerenciar e automatizar os deployments de maneira eficiente, mantendo tudo sob controle de versão. Isso garante uma abordagem declarativa e auditável para o gerenciamento de aplicações em Kubernetes. 📈🔄
-
-- **Autoscaling e Load Balancing**: Configuração de **Horizontal Pod Autoscalers** (HPA) que ajustam automaticamente a quantidade de réplicas dos pods com base na carga de trabalho, além de equilibrar a carga com **Ingress Controllers** e **Load Balancers**. ⚖️📊
-
-- **Integração Contínua e Entrega Contínua (CI/CD)**: A construção de pipelines CI/CD eficientes para garantir que cada mudança no código seja testada e implantada automaticamente, utilizando ferramentas como GitHub Actions e Jenkins. 🚀🔁
-
-- **Automação e Inteligência Artificial**: Uso de **AI Ops** e **LLM Ops** para monitorar e otimizar o desempenho dos ambientes, garantindo operações de alta eficiência. 💡🤖
-
-### Por que este projeto é significativo?
-
-Este repositório não é apenas uma coleção de scripts e configurações; ele é uma vitrine do meu **background técnico** e **competências em DevOps**. Desde a concepção até a execução, cada componente foi projetado com o objetivo de criar uma solução que não só atenda às necessidades do usuário, mas que também seja escalável e sustentável no longo prazo. 🌍🔝
 
 ---
 
 ## 📄 Currículo e Portfolio Principal
 
 - **[📄 Leia meu Currículo Completo clicando aqui!](https://github.com/chaos4455/CV)**
-- 
-🚀 Confira meu [Currículo Interativo](https://chaos.static.domains/curriculo-elias-terminal-v1stilo) e explore minhas habilidades de forma divertida!
-
+  
 🎓 **Currículo e lista de conhecimentos e competências.**
-
-- 🛠️ **Competências Técnicas**  
-  - **Desenvolvimento**:  
-    - ![Full Stack](https://img.shields.io/badge/Full_Stack-Python-orange) 
-    - ![Full Stack](https://img.shields.io/badge/HTML-orange) 
-    - ![Full Stack](https://img.shields.io/badge/CSS-orange) 
-    - ![Full Stack](https://img.shields.io/badge/React-orange) 
-    - ![Full Stack](https://img.shields.io/badge/Node.js-orange) 
-    - ![Frontend](https://img.shields.io/badge/Frontend-TailwindCSS-blue) 
-    - ![Frontend](https://img.shields.io/badge/Frontend-Next.js-blue) 
-    - ![Backend](https://img.shields.io/badge/Backend-Flask-red) 
-    - ![Backend](https://img.shields.io/badge/Backend-FastAPI-red) 
-  
-  - **Inteligência Artificial**:  
-    - ![Machine Learning](https://img.shields.io/badge/Machine_Learning-green) 
-    - ![Deep Learning](https://img.shields.io/badge/Deep_Learning-CNN%2FDNN%2FQNN-green) 
-    - ![Visão Computacional](https://img.shields.io/badge/Visao_Computacional-purple) 
-  
-  - **DevOps e Automação**:  
-    - ![CI/CD](https://img.shields.io/badge/CI_CD-Jenkins%2CGitLab%20CI/CD%2CGitHub%20Actions-lightgray) 
-    - ![IaC](https://img.shields.io/badge/IaC-Terraform-lightgray)
-
-  - **Análise de Dados**:  
-    - ![Pandas](https://img.shields.io/badge/Pandas-yellow) 
-    - ![NumPy](https://img.shields.io/badge/NumPy-blue) 
-    - ![Matplotlib](https://img.shields.io/badge/Matplotlib-red) 
-    - ![Seaborn](https://img.shields.io/badge/Seaborn-pink) 
-    - ![Plotly](https://img.shields.io/badge/Plotly-purple)
-
-  - **Scripting**:  
-    - ![Python](https://img.shields.io/badge/Python-yellowgreen) 
-    - ![Bash](https://img.shields.io/badge/Bash-gray) 
-    - ![PowerShell](https://img.shields.io/badge/PowerShell-blue)
-
-- 📚 **Experiência e Projetos**:  
-  - ![Projetos IA](https://img.shields.io/badge/Projetos_IA-yellowgreen) 
-  - ![Chatbots](https://img.shields.io/badge/Chatbots-yellowgreen)
-
-- 🗣️ **Soft Skills**:  
-  - ![Comunicação](https://img.shields.io/badge/Comunicao-Eficaz-orange) 
-  - ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho_em_Equipe-Eficaz-orange) 
-  - ![Resolução de Problemas](https://img.shields.io/badge/Resolucao_de_Problemas-Eficaz-orange) 
-
----
 
 # Portfolio de Desenvolvimento e Infraestrutura
 
