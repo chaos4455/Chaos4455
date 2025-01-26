@@ -221,7 +221,8 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevOps**, **Kubernetes**, **Docker**, **GitOps**, **CI/CD**, e muito mais! 🌐💻
 
-Clique aqui para ir para o repositório 
+Clique no botão abaixo  para ir para o repositório 
+
 [![Kubernetes MicroService Architecture](https://img.shields.io/badge/Kubernetes_MicroService_Archtect_Portfolio-0077B6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/chaos4455/Kubernetes-MicroService-Archtect-Portfolio) 
 
 
@@ -260,15 +261,6 @@ Clique aqui para ir para o repositório
 [![Infraestrutura](https://img.shields.io/badge/Infraestrutura-2019--2024-yellow?style=for-the-badge)](https://github.com/chaos4455/Certifica-es)
 [![Experiência em Redes](https://img.shields.io/badge/Experiência%20em%20Redes-DevOps-brightgreen?style=for-the-badge)](https://github.com/chaos4455/Certifica-es)
 
-### [WEBdev-Front-Back-End-Portfolio](https://github.com/chaos4455/WEBdev-Front-Back-End-Portfolio)
-
-[![Desenvolvimento Front-End](https://img.shields.io/badge/Desenvolvimento%20Front--End-HTML5%2C%20CSS3%2C%20JavaScript-blue?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chaos4455/WEBdev-Front-Back-End-Portfolio)
-[![Desenvolvimento Back-End](https://img.shields.io/badge/Desenvolvimento%20Back--End-Node.js%2C%20Express-green?style=for-the-badge&logo=node.js)](https://github.com/chaos4455/WEBdev-Front-Back-End-Portfolio)
-
-### [WEB-UI-UX-Mockups](https://github.com/chaos4455/WEB-UI-UX-Mockups)
-
-[![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-Figma%2C%20Sketch%2C%20Adobe%20XD-ff69b4?style=for-the-badge&logo=figma)](https://github.com/chaos4455/WEB-UI-UX-Mockups)
-
 ### [architeture-diagrams](https://github.com/chaos4455/architeture-diagrams)
 
 [![Diagramação de Sistemas](https://img.shields.io/badge/Diagramação%20de%20Sistemas-Lucidchart%2C%20Draw.io-yellowgreen?style=for-the-badge&logo=lucidchart)](https://github.com/chaos4455/architeture-diagrams)
@@ -276,10 +268,6 @@ Clique aqui para ir para o repositório
 ### [Data-Projects-Portfolio](https://github.com/chaos4455/Data-Projects-Portfolio)
 
 [![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-Pandas%2C%20NumPy%2C%20Matplotlib-orange?style=for-the-badge&logo=pandas)](https://github.com/chaos4455/Data-Projects-Portfolio)
-
-### [Python-Dev-BE-AI-ML-LLM-DEVOPS](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)
-
-[![Python e Machine Learning](https://img.shields.io/badge/Python%20e%20Machine%20Learning-Scikit--learn%2C%20TensorFlow%2C%20PyTorch-critical?style=for-the-badge&logo=python)](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)
 
 ### [Projetos](https://github.com/chaos4455/Projetos)
 
@@ -289,9 +277,9 @@ Clique aqui para ir para o repositório
 
 [![Micro Projetos Diversos](https://img.shields.io/badge/Micro%20Projetos-Diversos-ffcc00?style=for-the-badge)](https://github.com/chaos4455/Projetos-DEV)
 
-### [Certifica-es](https://github.com/chaos4455/Certifica-es)
+### [Portfólio Experiência Profisisonal- ADM de redes - Farmácia de Manipulação - 2019 - 2023](https://github.com/chaos4455/Certifica-es)
 
-[![Certificações em Infraestrutura](https://img.shields.io/badge/Certificações-Infraestrutura-ff6600?style=for-the-badge)](https://github.com/chaos4455/Certifica-es)
+[![Administrador em Infraestrutura](https://img.shields.io/badge/Certificações-Infraestrutura-ff6600?style=for-the-badge)](https://github.com/chaos4455/Certifica-es)
 
 ### Tecnologias Principais
 
