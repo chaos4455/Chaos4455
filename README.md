@@ -7,43 +7,23 @@
 ![VMware Badge](https://img.shields.io/badge/VMware-Hyper--V_Virtualization-0A0A0A?style=for-the-badge&logo=vmware&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-Backend_Dev-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
 ![Architect Badge](https://img.shields.io/badge/Solution_Architect-Microservices_Clean_Architecture-0A0A0A?style=for-the-badge&logo=microservices&logoColor=white)
-
----
-
-### 🧑‍💻 **Operações e Automação**
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-Orchestration-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-System_Administration-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows Automation Badge](https://img.shields.io/badge/Windows_PowerShell-Scripting_Automation-0A0A0A?style=for-the-badge&logo=powershell&logoColor=white)
 ![Automação Badge](https://img.shields.io/badge/Automação-Ansible_Terraform-0A0A0A?style=for-the-badge&logo=automation&logoColor=white)
-
----
-
-### ⚙️ **Práticas de Engenharia**
 ![LLMOps Badge](https://img.shields.io/badge/LLMOps-MLOps-0A0A0A?style=for-the-badge&logo=machinelearning&logoColor=white)
 ![MLOps Badge](https://img.shields.io/badge/MLOps-Model_Lifecycle-0A0A0A?style=for-the-badge&logo=mlops&logoColor=white)
 ![AI Badge](https://img.shields.io/badge/Generative_AI-Machine_Learning-0A0A0A?style=for-the-badge&logo=ai&logoColor=white)
 ![DataOps Badge](https://img.shields.io/badge/DataOps-Data_Engineering-0A0A0A?style=for-the-badge&logo=dataops&logoColor=white)
 ![ITIL Badge](https://img.shields.io/badge/ITIL-IT_Service_Management-0A0A0A?style=for-the-badge&logo=itsm&logoColor=white)
-
----
-
-### 📜 **Certificações e Padrões**
 ![ISO 20000 Badge](https://img.shields.io/badge/ISO_20000-IT_Service_Management-0A0A0A?style=for-the-badge&logo=iso&logoColor=white)
 ![ISO 27001 Badge](https://img.shields.io/badge/ISO_27001-Information_Security-0A0A0A?style=for-the-badge&logo=security&logoColor=white)
 ![ISO 38500 Badge](https://img.shields.io/badge/ISO_38500-IT_Governance-0A0A0A?style=for-the-badge&logo=governance&logoColor=white)
 ![ITSM Badge](https://img.shields.io/badge/ITSM-Process_Optimization-0A0A0A?style=for-the-badge&logo=itsm&logoColor=white)
-
----
-
-### 💻 **Ferramentas**
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Terraform Badge](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-0A0A0A?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible Badge](https://img.shields.io/badge/Ansible-Automation-0A0A0A?style=for-the-badge&logo=ansible&logoColor=white)
 ![VMware Tools Badge](https://img.shields.io/badge/VMware-ESXi_vSphere-0A0A0A?style=for-the-badge&logo=vmware&logoColor=white)
-
----
-
-### 🛠️ **Prototipagem e Pesquisa**
 ![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-0A0A0A?style=for-the-badge&logo=innovation&logoColor=white)
 ![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm%2
 
