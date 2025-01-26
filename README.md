@@ -25,7 +25,6 @@
 ![Ansible Badge](https://img.shields.io/badge/Ansible-Automation-0A0A0A?style=for-the-badge&logo=ansible&logoColor=white)
 ![VMware Tools Badge](https://img.shields.io/badge/VMware-ESXi_vSphere-0A0A0A?style=for-the-badge&logo=vmware&logoColor=white)
 ![Research Badge](https://img.shields.io/badge/Research-Innovation%20in%20AI-0A0A0A?style=for-the-badge&logo=innovation&logoColor=white)
-![Prototyping Badge](https://img.shields.io/badge/Prototyping-Multi--Paradigm%2
 
 ![chrome_43HPemceLQ](https://github.com/user-attachments/assets/85e45dc3-bcd1-4927-90ef-ab25dc39ac35)
 
