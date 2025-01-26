@@ -68,10 +68,6 @@ Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, 
 
 ---
 
-🤝 **Vamos conectar!**  
-
-Sinta-se à vontade para explorar o canal e entrar em contato para oportunidades, colaborações ou simplesmente trocar ideias! 🌍  
-
 Durante os anos de **2018 a 2023**, foquei minha carreira em **pesquisa e desenvolvimento** de micro sistemas com ênfase em **Python**, **Inteligência Artificial (IA)** e **Machine Learning (ML)**. Em 2018, decidi dedicar-me inteiramente ao estudo e aprimoramento dessas tecnologias, consultando mais de **400 livros** sobre **IA e ML**, desde os clássicos dos anos 80 até as mais recentes inovações.
 
 Atualmente, estou com **foco total** em IA, **modelos multi-agent**, **frameworks proprietários**, **Google Gemini API**, e em **modelos locais** usando **Ollama**, criando **aplicações completas** e **plataformas inovadoras** que integram **IA ao estado da arte**. Utilizo **React**, **TypeScript**, e **Node.js** para construir **front-ends modernos** e soluções que conectam o **backend** de ponta com as tecnologias mais avançadas.
