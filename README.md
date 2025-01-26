@@ -99,7 +99,7 @@ Se você está procurando um **profissional comprometido**, com uma **visão amp
 
 ## 🟣 **Certificados e Treinamentos - Roadmap de cursos e treinamentos recentes e relevantes** 🟣  
 
-Aqui estão os principais destaques das minhas certificações e treinamentos documentados! 👇  
+Aqui estão os principais treinamentos e cursos que fiz recentemente - Ao total tenho mais de 50 treinaemntos em TI realizados ao longo de mais de 15 anos.👇  
 
 [![GitHub - Repositório de Treinamentos](https://img.shields.io/badge/GitHub-Treinamentos%20e%20Certificações-6f42c1?logo=github&style=for-the-badge)](https://github.com/chaos4455/Treinamentos-2024)  
 [![Kubernetes Certificado](https://img.shields.io/badge/Kubernetes-Ambientes%20de%20Desenvolvimento-6f42c1?logo=kubernetes&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
@@ -110,11 +110,6 @@ Aqui estão os principais destaques das minhas certificações e treinamentos do
 [![Zabbix Monitoring](https://img.shields.io/badge/Zabbix-Monitoramento%20Avançado%20v5-6f42c1?logo=zabbix&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
 [![Nmap Advanced](https://img.shields.io/badge/Nmap-Análise%20de%20Segurança-6f42c1?logo=nmap&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
 [![Hyper-V Virtualization](https://img.shields.io/badge/Hyper--V-Virtualização%20Avançada-6f42c1?logo=windows&logoColor=white&style=flat-square)](https://github.com/chaos4455/Treinamentos-2024)  
-
-🔍 **O que você vai encontrar?**  
-- 🛠️ Detalhes sobre cursos de Kubernetes, DevOps, Azure e muito mais!  
-- 🎓 Certificações organizadas e documentadas com links, instituições e competências adquiridas.  
-- 📂 Atualizações constantes com novos aprendizados e conhecimentos adquiridos.
 
 ---
 
