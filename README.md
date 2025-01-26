@@ -90,7 +90,7 @@ Meu foco atual é dominar e **masterizar fluxos de ML** integrados com **IA**, u
 - **Frameworks**: Flask, FastAPI, Streamlit, Dash, ReactJS, NextJS
 
 ## 🌟 **O Que Eu Busco?**
-Estou em busca de **novos desafios** em **empresas que busquem inovação**, **automatização** e desenvolvimento de **soluções no estado da arte**. Tenho interesse em posições **CLT ou PJ**, com **trabalho remoto**, e estou pronto para **aplicar minha experiência e paixão** para **transformar negócios** através da **automação**, **IA**, **ML** e **microservices**.
+Estou sempre pronto e em busca de **novos desafios** em **empresas que busquem inovação**, **automatização** e desenvolvimento de **soluções no estado da arte**. Tenho interesse em posições **CLT ou PJ**, com **trabalho remoto**, e estou pronto para **aplicar minha experiência e paixão** para **transformar negócios** através da **automação**, **IA**, **ML** e **microservices**.
 
 ### 💬 **Vamos Conversar!**
 Se você está procurando um **profissional comprometido**, com uma **visão ampla** e **habilidades multifacetadas** para agregar valor à sua equipe e projetos, entre em contato comigo! Eu adoraria discutir como posso contribuir para o sucesso da sua empresa.
