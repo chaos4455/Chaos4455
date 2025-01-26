@@ -1,4 +1,4 @@
-# 🛠️ Apresentação Técnica
+# 🛠️ Portfólio Profissional e Apresentação Técnica
 
 ![DevOps Badge](https://img.shields.io/badge/DevOps-Infrastructure%20Analyst-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-0A0A0A?style=for-the-badge&logo=docker&logoColor=white)
