@@ -67,6 +67,14 @@ Explore minha experiência em projetos de análise e ciência de dados, com foco
 
 - 📈 **[Data Projects Portfolio](https://github.com/chaos4455/Data-Projects-Portfolio)**: Projetos em Auto BI, Auto ML, LLMOps para reports, IA/ML/IA Data, DataOps, análises, dashboards, automações, coleta e processamento de dados, otimização de estoque e cadeia de suprimentos e muito mais.
 
+<!-- Título Principal da Seção de Currículos -->
+## 💜 MEUS CURRÍCULOS & APRESENTAÇÕES 💜
+
+<!-- Badge Grande Roxa Referenciando o Repositório Principal de CVs -->
+[![Repositório de Currículos](https://img.shields.io/badge/📁%20Repositório%20CVs-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV)
+
+<br> <!-- Quebra de linha para espaçamento -->
+
 # 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
 
 Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, soluções inovadoras em inteligência artificial, machine learning, visão computacional, DevOps e muito mais! 🚀  
