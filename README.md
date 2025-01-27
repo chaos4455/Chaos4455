@@ -33,6 +33,12 @@
 
 📍 **Localização**: Maringá - Paraná  🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)  💼 **LinkedIn**: [itilmgf](https://www.linkedin.com/in/itilmgf/)
 
+
+## 👨‍💻 **Quem sou eu?**
+
+Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
+
+
 ### Meu Portfolio 💼
 
 [![Status](https://img.shields.io/badge/Status-Atualizado-green)](https://img.shields.io/badge/Status-Atualizado-green)
@@ -60,11 +66,6 @@ Explore meus projetos no GitHub e Spaces do Hugging Face!
 Explore minha experiência em projetos de análise e ciência de dados, com foco em insights acionáveis e otimização:
 
 - 📈 **[Data Projects Portfolio](https://github.com/chaos4455/Data-Projects-Portfolio)**: Projetos em Auto BI, Auto ML, LLMOps para reports, IA/ML/IA Data, DataOps, análises, dashboards, automações, coleta e processamento de dados, otimização de estoque e cadeia de suprimentos e muito mais.
-
-
-## 👨‍💻 **Quem sou eu?**
-
-Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
 # 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
 
