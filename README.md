@@ -79,8 +79,6 @@ Lista de currículos e apresentações disponíveis para download no repositóri
 <!-- Item da lista - Link para o repositório principal -->
 *   📁 **[Acessar Repositório de Currículos](https://github.com/chaos4455/CV)** - Para visualizar e baixar todos os currículos e apresentações em PDF.
 
---- <!-- Linha horizontal para separar visualmente (opcional) -->
-
 # 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
 
 Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, soluções inovadoras em inteligência artificial, machine learning, visão computacional, DevOps e muito mais! 🚀  
