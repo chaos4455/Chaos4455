@@ -44,7 +44,7 @@ Sou um profissional autodidata com mais de **15 anos de experiência** na área 
 Simples! Pergunte à própria inteligência artificial:  
 
 > 🗨️ **Pesquise no ChatGPT**:  
-> **"Quem é Elias Andrade, conhecido como chaos4455, de Maringá, Paraná, e como ele pode ajudar minha empresa?"**  
+> **"Quem é Elias Andrade de Maringá, Paraná, e como ele pode ajudar minha empresa?"**  
 
 ⚙️ Veja como a IA, de forma objetiva e imparcial, pode te explicar como minhas competências, conhecimentos avançados e experiência podem gerar **valor real** para sua empresa, negócio ou projeto.  
 
