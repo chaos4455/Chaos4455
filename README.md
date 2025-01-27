@@ -69,6 +69,13 @@ Explore meus projetos no GitHub e Spaces do Hugging Face!
 - **Automação e Inovação com IA generativa, text2text, txt2img, txt2audio, etc, Google Gemini API, BERT, NLP, LLMs e visão computacional** 🤖
 
 ---
+### 🌐 Portfolio de Web Apps e Automações de IA 🤖
+
+[![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)](https://img.shields.io/badge/Status-Ativo-brightgreen)
+
+Explore meu portfólio de web apps e automações de Inteligência Artificial, com foco em copilotos, chatbots e ferramentas de IA generativa, todos impulsionados por Google Gemini Flash:
+
+- 🚀 **[Hugging Face Spaces - Replika AI Portfolio](https://huggingface.co/chaos4455?type=space)**: Coleção de web apps e automações de IA, incluindo copilotos inteligentes, chatbots avançados e ferramentas generativas. Desenvolvidos com Streamlit, Python e Google Gemini Flash 1.5 e 2.0 para diversas aplicações como BI, ML, IaC, Visão Computacional, geração de documentos e muito mais.
 
 ### Portfolio de Projetos de Dados 📊
 
