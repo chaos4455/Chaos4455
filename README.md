@@ -1,5 +1,7 @@
 # 🛠️ Portfólio Profissional e Apresentação Técnica
 
+![chrome_43HPemceLQ](https://github.com/user-attachments/assets/85e45dc3-bcd1-4927-90ef-ab25dc39ac35)
+
 ![DevOps Badge](https://img.shields.io/badge/DevOps-Analista%20de%20Infraestrutura-FF0000?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-FF0000?style=for-the-badge&logo=docker&logoColor=white)
 ![GitOps Badge](https://img.shields.io/badge/GitOps-GitHub%2FGitHubActions%2FArgoCD-FF0000?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -26,7 +28,6 @@
 ![VMware Tools Badge](https://img.shields.io/badge/VMware-ESXi_vSphere-FF0000?style=for-the-badge&logo=vmware&logoColor=white)
 ![Research Badge](https://img.shields.io/badge/Pesquisa-Inovação_em_IA-FF0000?style=for-the-badge&logo=innovation&logoColor=white)
 
-![chrome_43HPemceLQ](https://github.com/user-attachments/assets/85e45dc3-bcd1-4927-90ef-ab25dc39ac35)
 
 # Elias Andrade 🚀
 ### Arquiteto de Infraestrutura, inovação e Soluções DevOps e IA Multi-Agent | (Docker/Kubernetes) 🐳 | Infra | IAops | LLMops | MLops - Gitops - Microsserviços | LLMs (Llama3 🦙, Google Gemini ♊) | Full Stack Python 🐍
