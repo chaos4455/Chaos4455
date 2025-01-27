@@ -33,6 +33,12 @@
 
 📍 **Localização**: Maringá - Paraná  🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)  💼 **LinkedIn**: [itilmgf](https://www.linkedin.com/in/itilmgf/)
 
+### Meu Portfolio 💼
+
+[![Status](https://img.shields.io/badge/Status-Atualizado-green)](https://img.shields.io/badge/Status-Atualizado-green)
+
+Explore meus projetos no GitHub e Spaces do Hugging Face! 
+🚀 **[Portfolio](https://github.com/chaos4455/portfolio)** - Mais de 200 repositórios e spaces.
 
 🔧 **Especialista atuando na área de T.I desde 2010**:
 
