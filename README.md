@@ -1,5 +1,23 @@
 # 🛠️ Portfólio Profissional e Apresentação Técnica
 
+<div style="border: 3px solid #f04a4a; padding: 20px; background-color: #fbeaea; border-radius: 10px;">
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+
+
+<div style="text-align: center;">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" style="width: 80px; margin-bottom: 10px;">
+<p style="color: #4682B4; font-weight: bold;">Streamlit</p>
+<span style="font-size: 24px;">✨</span>
+</div>
+
+
+<div style="text-align: center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" style="width: 80px; margin-bottom: 10px;">
+<p style="color: #36454F; font-weight: bold;">Python</p>
+<span style="font-size: 24px;">🐍</span>
+</div>
+
 ![chrome_43HPemceLQ](https://github.com/user-attachments/assets/85e45dc3-bcd1-4927-90ef-ab25dc39ac35)
 
 ![DevOps Badge](https://img.shields.io/badge/DevOps-Analista%20de%20Infraestrutura-FF0000?style=for-the-badge&logo=linux&logoColor=white)
