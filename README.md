@@ -34,12 +34,12 @@
 
 📍 **Localização**: Maringá - Paraná  🌐 **GitHub**: [chaos4455](https://github.com/chaos4455)  💼 **LinkedIn**: [itilmgf](https://www.linkedin.com/in/itilmgf/)
 
+<img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/7fa20ad0-444b-419c-93df-576e0356623a" />
 
 ## 👨‍💻 **Quem sou eu?**
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
-<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/18fb8453-250e-418f-8855-6789c9569726" />
 
 # 🔍 Quer saber como posso ajudar sua empresa?  
 
