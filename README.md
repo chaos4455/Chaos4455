@@ -40,6 +40,20 @@
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
+## 🚀 Explore o Replika Capture Pro: Automação Inteligente para Captura de Produtos! 🛍️
+
+[![Replika Capture Pro](https://img.shields.io/badge/Explore%20Replika%20Capture%20Pro-Automação%20IA%20de%20Produtos-yellow)](https://github.com/chaos4455/Capture-Pro-Product-Capture-AI-Powered)
+
+**Descubra o meu mais novo projeto de IA** Uma solução inovadora e focada em licenciamento, projetada para revolucionar a forma como você captura e cadastra produtos.
+
+**Replika Capture Pro** é uma plataforma completa para:
+
+*   ✅ **Automação Total:** Simplifique e acelere a captura e o cadastro de produtos em sistemas e e-commerce.
+*   ⚡️ **Captura em Segundos:** Obtenha informações de produtos dos seus fornecedores de forma rápida e eficiente.
+*   🌐 **Compatibilidade Universal:** Capture produtos de QUALQUER site, sem limitações.
+*   🤖 **IA Inteligente:** A inteligência artificial entende a estrutura do site e cria automações personalizadas.
+
+**Visite o repositório:** [https://github.com/chaos4455/Capture-Pro-Product-Capture-AI-Powered](https://github.com/chaos4455/Capture-Pro-Product-Capture-AI-Powered)
 
 # 🔍 Quer saber como posso ajudar sua empresa?  
 
