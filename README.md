@@ -43,7 +43,7 @@ Sou um profissional autodidata com mais de **15 anos de experiência** na área 
 
 ---
 
-### <0xF0><0x9F><0x93><0x8A> Meu Diário Detalhado de Desenvolvimento Python
+### Meu Diário Detalhado de Desenvolvimento Python
 
 Quer acompanhar de perto minha evolução, desafios e projetos em Python, incluindo heatmaps detalhados de atividade?
 
