@@ -43,6 +43,18 @@ Sou um profissional autodidata com mais de **15 anos de experiência** na área 
 
 ---
 
+---
+
+### Meu Portfólio: Arquitetura AI & Backend
+
+Explore meus projetos e estudos em arquitetura de software ⚙️, com foco em sistemas de Inteligência Artificial 🧠, APIs robustas 🔗 e back-end para integrações complexas envolvendo Data Science 📊, Machine Learning (ML) e Large Language Models (LLMs) 💬.
+
+[![Ver Portfólio - Arquitetura AI & Backend](https://img.shields.io/badge/Ver_Portfólio_➔_Arquitetura_AI_&_Backend-FFD700?style=for-the-badge&logo=python&logoColor=black)](https://github.com/chaos4455/Portfolio-Arquitetura-Software-Sistemas-IA-Back-End-2024-2025)
+
+**Clique no badge acima** 👆 para mergulhar nas soluções e arquiteturas que venho desenvolvendo!
+
+---
+
 ### Meu Diário Detalhado de Desenvolvimento Python
 
 Quer acompanhar de perto minha evolução, desafios e projetos em Python, incluindo heatmaps detalhados de atividade?
