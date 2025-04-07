@@ -40,6 +40,20 @@
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
+
+---
+
+### <0xF0><0x9F><0x93><0x8A> Meu Diário Detalhado de Desenvolvimento Python
+
+Quer acompanhar de perto minha evolução, desafios e projetos em Python, incluindo heatmaps detalhados de atividade?
+
+[![Meu Roadmap Dev - Progresso Python & Heatmaps](https://img.shields.io/badge/Clique_Aqui_➔_Meu_Diário_Dev_Python_(Heatmaps)-FFD700?style=for-the-badge&logo=python&logoColor=black)](https://github.com/chaos4455/2024-python-dev-review-history/blob/main/README.md)
+
+**Clique no badge acima** para acessar meu repositório dedicado ao histórico e progresso, com análises visuais da minha jornada como desenvolvedor e arquiteto AI/Python! 🚀
+
+---
+
+
 ## 🚀 Explore o Replika Capture Pro: Automação Inteligente para Captura de Produtos! 🛍️
 
 [![Replika Capture Pro](https://img.shields.io/badge/Explore%20Replika%20Capture%20Pro-Automação%20IA%20de%20Produtos-yellow)](https://github.com/chaos4455/Capture-Pro-Product-Capture-AI-Powered)
