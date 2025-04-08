@@ -54,6 +54,14 @@ Explore meus projetos e estudos em arquitetura de software ⚙️, com foco em s
 **Clique no badge acima** 👆 para mergulhar nas soluções e arquiteturas que venho desenvolvendo!
 
 ---
+### Explore o Projeto Message Broker Replika AI v1
+
+Interessado em sistemas de mensageria robustos e escaláveis construídos em Python?
+
+[![Acesse o Repositório ➔ Message Broker Replika AI v1](https://img.shields.io/badge/Ver_Projeto_no_GitHub_➔_Message_Broker_Replika_AI-FFD700?style=for-the-badge&logo=python&logoColor=black)](https://github.com/chaos4455/projeto-message-broker-replika-ai-v1)
+
+**Clique no badge acima** para acessar o repositório completo do projeto Message Broker Replika AI v1. Explore o código-fonte, entenda a arquitetura e veja a implementação em ação! 🚀
+---
 
 ### Meu Diário Detalhado de Desenvolvimento Python
 
