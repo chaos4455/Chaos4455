@@ -43,6 +43,14 @@ Sou um profissional autodidata com mais de **15 anos de experiência** na área 
 
 ---
 
+### Vectorial Profiler: Análise Vetorial de Perfis com IA 🔬
+
+Descubra o Vectorial Profiler: uma solução avançada de IA para análise profunda e visualização 3D 🌐 de perfis de usuários (inicialmente focada em gamers 🎮). Utilizamos embeddings vetoriais ✨, NLP 🗣️ e Machine Learning 🤖 para transformar dados brutos em insights, revelando similaridades, padrões e facilitando a formação de comunidades ou matchmaking 🤝.
+
+[![Explorar Vectorial Profiler ➔](https://img.shields.io/badge/Explorar_Vectorial_Profiler_➔-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/chaos4455/Portfolio-Arquitetura-Software-Sistemas-IA-Back-End-2024-2025)
+
+**Clique no badge acima** 👆 para mergulhar nos detalhes técnicos, arquitetura (com PCA, KMeans + FAISS), visualizações interativas (Plotly) e o código-fonte desta plataforma robusta e escalável de análise de similaridade!
+
 ---
 
 ### Meu Portfólio: Arquitetura AI & Backend
