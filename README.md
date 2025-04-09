@@ -40,7 +40,15 @@
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
+✨ **Acesse meus Currículos e Portfólios Atualizados:** 📂
 
+<!-- Badge Laranja Grande Linkando para o Repositório -->
+[![Acessar Repositório de Currículos](https://img.shields.io/badge/Acessar%20Repositório%20de%20Currículos-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=darkorange&logoWidth=20)](https://github.com/chaos4455/CV)
+
+<br> <!-- Quebra de linha para espaçamento -->
+
+<!-- Badges Verdes de Status e Data -->
+![Status](https://img.shields.io/badge/%E2%9C%85%20Status-Currículos%20Atualizados-green?style=flat-square) ![Atualizado em](https://img.shields.io/badge/%F0%9F%93%85%20Atualizado%20em-09/04/2025-green?style=flat-square)
 ---
 
 ### Vectorial Profiler: Análise Vetorial de Perfis com IA 🔬
