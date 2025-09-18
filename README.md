@@ -56,6 +56,10 @@ Atuação focada em **Supply Chain**, **Dados**, **Engenharia e Arquitetura de D
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
+### 🛑 **VISITE AGORA MEU PORTFOLIO EM VIDEO NO YOUTUBE!**  
+[![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+
+
 ### Meu Portfolio 💼
 
 [![Status](https://img.shields.io/badge/Status-Atualizado-green)](https://img.shields.io/badge/Status-Atualizado-green)
@@ -113,14 +117,6 @@ Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, 
 - 🤖 **Chatbots Inteligentes e Copilots**  
 - 🖥️ **DevOps, CI/CD e Infraestrutura Cloud**  
 - 🎥 **Tutoriais Práticos e Demonstrações de Projetos**
-
----
-
-### ⭐ **Inscreva-se e acompanhe!**  
-🔔 **Ative o sininho para receber notificações e ficar por dentro das atualizações dos meus projetos.**  
-
-### 🛑 **VISITE AGORA!**  
-[![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
 
 ---
 
