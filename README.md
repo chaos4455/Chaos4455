@@ -1,32 +1,8 @@
 # 🛠️ Portfólio Profissional e Apresentação Técnica
 
-![chrome_ubxx8Q4OzB](https://github.com/user-attachments/assets/b3418bd7-86c4-4989-aef1-506565767614)
+<img width="589" height="338" alt="chrome_n4cXjXTfrk" src="https://github.com/user-attachments/assets/599b0a02-ba33-4d83-9eae-d2d86784a08e" />
 
-![DevOps Badge](https://img.shields.io/badge/DevOps-Analista%20de%20Infraestrutura-FF0000?style=for-the-badge&logo=linux&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-Kubernetes-FF0000?style=for-the-badge&logo=docker&logoColor=white)
-![GitOps Badge](https://img.shields.io/badge/GitOps-GitHub%2FGitHubActions%2FArgoCD-FF0000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Windows Badge](https://img.shields.io/badge/Windows-Servidor_Linux-FF0000?style=for-the-badge&logo=windows&logoColor=white)
-![VMware Badge](https://img.shields.io/badge/VMware-Hyper--V_Virtualização-FF0000?style=for-the-badge&logo=vmware&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-Desenvolvimento_Backend-FF0000?style=for-the-badge&logo=python&logoColor=white)
-![Architect Badge](https://img.shields.io/badge/Arquiteto_de_Soluções-Microsserviços_Arquitetura_Limpa-FF0000?style=for-the-badge&logo=microservices&logoColor=white)
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-Orquestração-FF0000?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-Administração_de_Sistemas-FF0000?style=for-the-badge&logo=linux&logoColor=white)
-![Windows Automation Badge](https://img.shields.io/badge/Windows_PowerShell-Scripts_Automatizados-FF0000?style=for-the-badge&logo=powershell&logoColor=white)
-![Automação Badge](https://img.shields.io/badge/Automação-Ansible_Terraform-FF0000?style=for-the-badge&logo=automation&logoColor=white)
-![LLMOps Badge](https://img.shields.io/badge/LLMOps-MLOps-FF0000?style=for-the-badge&logo=machinelearning&logoColor=white)
-![MLOps Badge](https://img.shields.io/badge/MLOps-Ciclo_de_Vida_de_Modelos-FF0000?style=for-the-badge&logo=mlops&logoColor=white)
-![AI Badge](https://img.shields.io/badge/IA_Gerativa-Aprendizado_de_Máquina-FF0000?style=for-the-badge&logo=ai&logoColor=white)
-![DataOps Badge](https://img.shields.io/badge/DataOps-Engenharia_de_Dados-FF0000?style=for-the-badge&logo=dataops&logoColor=white)
-![ITIL Badge](https://img.shields.io/badge/ITIL-Gestão_de_Serviços_de_TI-FF0000?style=for-the-badge&logo=itsm&logoColor=white)
-![ISO 20000 Badge](https://img.shields.io/badge/ISO_20000-Gestão_de_Serviços_de_TI-FF0000?style=for-the-badge&logo=iso&logoColor=white)
-![ISO 27001 Badge](https://img.shields.io/badge/ISO_27001-Segurança_da_Informação-FF0000?style=for-the-badge&logo=security&logoColor=white)
-![ISO 38500 Badge](https://img.shields.io/badge/ISO_38500-Governança_de_TI-FF0000?style=for-the-badge&logo=governance&logoColor=white)
-![ITSM Badge](https://img.shields.io/badge/ITSM-Otimização_de_Processos-FF0000?style=for-the-badge&logo=itsm&logoColor=white)
-![GitHub Actions Badge](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-FF0000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform Badge](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-FF0000?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible Badge](https://img.shields.io/badge/Ansible-Automação-FF0000?style=for-the-badge&logo=ansible&logoColor=white)
-![VMware Tools Badge](https://img.shields.io/badge/VMware-ESXi_vSphere-FF0000?style=for-the-badge&logo=vmware&logoColor=white)
-![Research Badge](https://img.shields.io/badge/Pesquisa-Inovação_em_IA-FF0000?style=for-the-badge&logo=innovation&logoColor=white)
+
 
 
 # Elias Andrade 🚀
