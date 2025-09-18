@@ -56,18 +56,6 @@ Atuação focada em **Supply Chain**, **Dados**, **Engenharia e Arquitetura de D
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
-
-# 🔍 Quer saber como posso ajudar sua empresa?  
-
-Simples! Pergunte à própria inteligência artificial:  
-
-> 🗨️ **Pesquise no ChatGPT**:  
-> **"Quem é Elias Andrade de Maringá, Paraná, e como ele pode ajudar minha empresa?"**  
-
-⚙️ Veja como a IA, de forma objetiva e imparcial, pode te explicar como minhas competências, conhecimentos avançados e experiência podem gerar **valor real** para sua empresa, negócio ou projeto.  
-
-🚀 **Descubra agora mesmo o impacto que posso causar no seu time, projeto ou negócio!**  
-
 ### Meu Portfolio 💼
 
 [![Status](https://img.shields.io/badge/Status-Atualizado-green)](https://img.shields.io/badge/Status-Atualizado-green)
