@@ -56,6 +56,8 @@ Atuação focada em **Supply Chain**, **Dados**, **Engenharia e Arquitetura de D
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
+[![TABELA-PRECOS](https://img.shields.io/badge/GitHub-TABELA--PRECOS-181717?style=flat&logo=github)](https://github.com/chaos4455/TABELA-PRECOS)
+
 ### 🛑 **VISITE AGORA MEU PORTFOLIO EM VIDEO NO YOUTUBE!**  
 [![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
 
