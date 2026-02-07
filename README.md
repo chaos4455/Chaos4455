@@ -56,6 +56,72 @@ Atuação focada em **Supply Chain**, **Dados**, **Engenharia e Arquitetura de D
 
 Sou um profissional autodidata com mais de **15 anos de experiência** na área de **Tecnologia da Informação**. Iniciei minha trajetória em 2010 como **suporte técnico** e ao longo dos anos evoluí para cargos mais especializados, atuando como **help desk**, **service desk**, **especialista de ITSM**, e **consultor de processos** com certificações em **ITIL/ISO20000**. De 2010 a 2023, tive a oportunidade de trabalhar em empresas de médio e grande porte, aplicando minha experiência para melhorar a infraestrutura, otimizar processos e implementar soluções de TI de forma eficiente e escalável.
 
+## 🧠 Arquiteto Sênior de Sistemas de Inteligência e Tomada de Decisão  
+### 🔹 Pesquisador Independente | Especialista em Supply Chain, RevOps e Sistemas Complexos  
+
+Atuo como **pesquisador independente e prestador de serviços sênior**, projetando e implementando **sistemas de inteligência e tomada de decisão** para resolver **problemas complexos de negócio**, com foco em **Supply Chain end-to-end**, **RevOps**, **operações comerciais** e **cadeias de valor logísticas completas**.
+
+Transformo **dados, infraestrutura, automação e IA em valor estratégico**, indo além de compras, estoque e demanda — atuando também em **planejamento comercial**, **consumer insights**, **integração operacional-financeira** e **orquestração de decisões em escala**.
+
+---
+
+### 💡 Como eu atuo
+
+- 🔬 **Pesquisa aplicada** de novas tecnologias e frentes de inovação, conectando o estado da arte (IA, ML, LLMs, automação) a problemas reais e crônicos do negócio  
+- 🧩 Combinação de **frameworks consolidados de mercado** com **frameworks proprietários**, cobrindo toda a cadeia de valor da Supply Chain, do fornecedor ao consumidor final  
+- 🏗️ Arquitetura de **sistemas inteligentes de decisão** (não apenas modelos isolados)
+
+> **IA não é fim.**  
+> **IA é meio para decidir melhor, mais rápido e com menos custo.**
+
+---
+
+### 🧠 Áreas de Atuação
+
+**✔ Supply Chain (End-to-End)**  
+Compras, planejamento, estoque, demanda, logística, distribuição e integração comercial-financeira.
+
+**✔ RevOps & Comercial**  
+Integração de dados operacionais, vendas, margem, forecast, eficiência comercial e tomada de decisão orientada a valor.
+
+**✔ IA, ML e Sistemas Inteligentes**  
+LLMs, NLP, automação inteligente, sistemas multi-agentes e IA aplicada a processos decisórios.
+
+**✔ Arquitetura, DevOps & MLOps**  
+Do dado bruto à decisão em produção: pipelines, observabilidade, escalabilidade e confiabilidade.
+
+---
+
+### 🧪 Base Técnica
+
+- 🐍 **Python** (backend, automação, IA)  
+- ☁️ **Cloud & Infra**: AWS, VMware, Bare Metal  
+- ⚙️ **DevOps & IaC**: Docker, Kubernetes, GitOps, Terraform, Ansible  
+- 🤖 **IA & ML**: TensorFlow, PyTorch, HuggingFace, FAISS, Qdrant  
+- 🧠 **LLMs & IA Generativa**: GPT, LLaMA, BERT, Gemini  
+- 📊 **Observabilidade & IAOps**: Dashboards, KPIs e análise inteligente de logs  
+
+---
+
+### 📌 Trajetória
+
+- **2010–2018**: ITSM (Help Desk, Service Desk, ITIL, ISO 20000)  
+- **2019–2023**: Administração de Redes e Infraestrutura Crítica  
+- **Desde 2018**: DevOps, Arquitetura de Sistemas, IA aplicada e soluções Full Cycle  
+- **2023–2024**: Projetos nacionais e internacionais, equipes remotas, inovação aplicada  
+
+---
+
+### 🎯 O que eu resolvo
+
+- Dores crônicas e sistemas quebrados  
+- Decisões ruins e processos caros e ineficientes  
+- Supply Chains complexas  
+- Operações que não conversam  
+- Decisão baseada em feeling  
+- Dados espalhados e sem valor real
+
+
 [![TABELA-PRECOS](https://img.shields.io/badge/GitHub-TABELA--PRECOS-181717?style=flat&logo=github)](https://github.com/chaos4455/TABELA-PRECOS)
 
 ### 🛑 **VISITE AGORA MEU PORTFOLIO EM VIDEO NO YOUTUBE!**  
