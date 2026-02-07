@@ -1,46 +1,81 @@
 # 🛠️ Portfólio Profissional e Apresentação Técnica 
+## 🧠 Arquitetura de IA, Dados e Decisão Aplicada
 
-![DevOps Badge](https://img.shields.io/badge/DevOps-Práticas_Ágeis-28a745?style=for-the-badge&logo=devops&logoColor=white)
-![DataOps Badge](https://img.shields.io/badge/DataOps-Engenharia_de_Dados-28a745?style=for-the-badge&logo=datawrapper&logoColor=white)
-![AIOps Badge](https://img.shields.io/badge/AIOps-Inteligência_Operacional-28a745?style=for-the-badge&logo=splunk&logoColor=white)
-![MLOps Badge](https://img.shields.io/badge/MLOps-Ciclo_de_Vida_ML-28a745?style=for-the-badge&logo=mlflow&logoColor=white)
-![ML Badge](https://img.shields.io/badge/Machine%20Learning-Modelagem_Preditiva-28a745?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLP Badge](https://img.shields.io/badge/NLP-Processamento_de_Linguagem-28a745?style=for-the-badge&logo=nixos&logoColor=white)
-![LLMs Badge](https://img.shields.io/badge/LLMs-Modelos_de_Linguagem-28a745?style=for-the-badge&logo=openai&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-Backend%2FDados-28a745?style=for-the-badge&logo=python&logoColor=white)
-![Flask Badge](https://img.shields.io/badge/Flask-API_Web-28a745?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI Badge](https://img.shields.io/badge/FastAPI-APIs_Assíncronas-28a745?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas Badge](https://img.shields.io/badge/Pandas-Análise_de_Dados-28a745?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy Badge](https://img.shields.io/badge/NumPy-Computação_Numérica-28a745?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-Deep_Learning-28a745?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras Badge](https://img.shields.io/badge/Keras-Redes_Neurais-28a745?style=for-the-badge&logo=keras&logoColor=white)
-![Redes Neurais Badge](https://img.shields.io/badge/Redes%20Neurais-AI%20Modeling-28a745?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Dashboards Badge](https://img.shields.io/badge/Dashboards-Visualização_de_Dados-28a745?style=for-the-badge&logo=powerbi&logoColor=white)
-![Decision Intelligence Badge](https://img.shields.io/badge/Decision%20Intelligence-Tomada_de_Decisão-28a745?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Driven Badge](https://img.shields.io/badge/Data%20Driven-Cultura_de_Dados-28a745?style=for-the-badge&logo=redhat&logoColor=white)
-![Augmented Analytics Badge](https://img.shields.io/badge/Augmented%20Analytics-Insights_Automáticos-28a745?style=for-the-badge&logo=tableau&logoColor=white)
-![Augmented BI Badge](https://img.shields.io/badge/Augmented%20BI-Inteligência_Automatizada-28a745?style=for-the-badge&logo=superset&logoColor=white)
-![DuckDB Badge](https://img.shields.io/badge/DuckDB-Análise_OLAP_In--Process-28a745?style=for-the-badge&logo=duckdb&logoColor=white)
-![Event Streams Badge](https://img.shields.io/badge/Event%20Streams-Kafka_RabbitMQ-28a745?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Microservices Badge](https://img.shields.io/badge/Microsserviços-Arquitetura_Distribuída-28a745?style=for-the-badge&logo=microgenetics&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-Containerização-28a745?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-Orquestração-28a745?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Gemini API Badge](https://img.shields.io/badge/Google%20Gemini%20API-IA%20Generativa-28a745?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChatGPT API Badge](https://img.shields.io/badge/ChatGPT%20API-Chatbots%20LLMs-28a745?style=for-the-badge&logo=openai&logoColor=white)
-![BERT Badge](https://img.shields.io/badge/BERT-Embeddings_NLP-28a745?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Word2Vec Badge](https://img.shields.io/badge/Word2Vec-Modelos_de_Linguagem-28a745?style=for-the-badge&logo=gensim&logoColor=white)
-![NLTK Badge](https://img.shields.io/badge/NLTK-Toolkit_NLP-28a745?style=for-the-badge&logo=nixos&logoColor=white)
-![Sentence Transformer Badge](https://img.shields.io/badge/Sentence%20Transformer-Embeddings_Semânticos-28a745?style=for-the-badge&logo=huggingface&logoColor=white)
-![AWS EC2 Badge](https://img.shields.io/badge/AWS%20EC2-Servidores_Cloud-28a745?style=for-the-badge&logo=amazonec2&logoColor=white)
-![AWS EKS Badge](https://img.shields.io/badge/AWS%20EKS-Kubernetes_Gerenciado-28a745?style=for-the-badge&logo=amazoneks&logoColor=white)
-![Supply Chain Badge](https://img.shields.io/badge/Supply%20Chain-Otimização_Logística-28a745?style=for-the-badge&logo=供应链金融&logoColor=white)
-![Data Engineering Badge](https://img.shields.io/badge/Data%20Engineering-Pipelines_de_Dados-28a745?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Decision Support Badge](https://img.shields.io/badge/Suporte%20à%20Decisão-BI_Estratégico-28a745?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Consumer Insights Badge](https://img.shields.io/badge/Consumer%20Insights-Análise_de_Consumo-28a745?style=for-the-badge&logo=tableau&logoColor=white)
+### 🏗️ IA Operacional & Automação de Sistemas Críticos
+![AIOps](https://img.shields.io/badge/AIOps-Inteligência_Operacional-ff7a18?style=for-the-badge)
+![Decision Intelligence](https://img.shields.io/badge/Decision_Intelligence-Decisão_Baseada_em_Dados-ff7a18?style=for-the-badge)
+![Augmented Analytics](https://img.shields.io/badge/Augmented_Analytics-Insights_Automatizados-ff7a18?style=for-the-badge)
+![Augmented BI](https://img.shields.io/badge/Augmented_BI-Decisão_Automatizada-ff7a18?style=for-the-badge)
 
-**Experiência Recente:**
+→ Aplicação de IA para **redução de ruído operacional**, **priorização de eventos**, **suporte à decisão em tempo real** e **automação inteligente**.
 
-Atuação focada em **Supply Chain**, **Dados**, **Engenharia e Arquitetura de Dados (DataOps, MLOps)**, **Inteligência Artificial (IA)** e **Automação** para criar soluções escaláveis. Experiência robusta na construção de **Dashboards**, fornecendo **suporte à decisão** através de **insights de consumo** e modelagem avançada utilizando **Redes Neurais** e **Machine Learning**. Além disso, há um forte domínio de **LLMs** e **NLP**, com implementação em **microsserviços** e ambientes **Docker/Kubernetes**, e desenvolvimento **backend com Python, Flask e FastAPI**. Uso de plataformas de nuvem como **AWS (EC2, EKS)** e APIs de IA como **Google Gemini** e **ChatGPT**.
+---
+
+### 📦 Supply Chain Analytics & Otimização Logística
+![Supply Chain](https://img.shields.io/badge/Supply_Chain-Otimização_Logística-ff7a18?style=for-the-badge)
+![Consumer Insights](https://img.shields.io/badge/Consumer_Insights-Análise_de_Consumo-ff7a18?style=for-the-badge)
+![Decision Support](https://img.shields.io/badge/Decision_Support-BI_Estratégico-ff7a18?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-Visualização_Estratégica-ff7a18?style=for-the-badge)
+
+→ Transformação de dados operacionais e de consumo em **decisões estratégicas**, **previsão de demanda**, **otimização de fluxos** e **visibilidade ponta a ponta**.
+
+---
+
+### 🧬 Machine Learning Aplicado & Modelagem Preditiva
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Modelagem_Preditiva-ff7a18?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Redes_Neurais-ff7a18?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-Ciclo_de_Vida_de_Modelos-ff7a18?style=for-the-badge)
+
+→ Construção, versionamento, monitoramento e operação de modelos voltados a **previsão**, **classificação**, **detecção de padrões** e **decisão automatizada**.
+
+---
+
+### 🗣️ LLMs, NLP & Sistemas Cognitivos
+![LLMs](https://img.shields.io/badge/LLMs-Modelos_de_Linguagem-ff7a18?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Processamento_de_Linguagem_Natural-ff7a18?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semântica_e_Contexto-ff7a18?style=for-the-badge)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-Agentes_e_Chatbots-ff7a18?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-IA_Generativa-ff7a18?style=for-the-badge)
+
+→ Uso de LLMs para **interpretação de eventos**, **extração de conhecimento**, **agentes inteligentes**, **automação cognitiva** e **interfaces conversacionais**.
+
+---
+
+### 🧱 Engenharia de Dados & Arquitetura Analítica
+![DataOps](https://img.shields.io/badge/DataOps-Arquitetura_de_Dados-ff7a18?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-Pipelines_de_Dados-ff7a18?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-OLAP_In--Process-ff7a18?style=for-the-badge)
+![Event Streams](https://img.shields.io/badge/Event_Streams-Kafka_e_RabbitMQ-ff7a18?style=for-the-badge)
+
+→ Construção de **pipelines escaláveis**, **processamento analítico eficiente**, **event-driven architectures** e **dados prontos para decisão e IA**.
+
+---
+
+### ⚙️ Backend, Microsserviços & Infraestrutura
+![Python](https://img.shields.io/badge/Python-Backend_e_Dados-ff7a18?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-APIs_Assíncronas-ff7a18?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-APIs_Leves-ff7a18?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microsserviços-Arquitetura_Distribuída-ff7a18?style=for-the-badge)
+
+→ Desenvolvimento de **APIs de dados e IA**, **serviços desacoplados**, **arquiteturas resilientes** e **integração entre sistemas analíticos e operacionais**.
+
+---
+
+### ☁️ Cloud, Containers & Orquestração
+![Docker](https://img.shields.io/badge/Docker-Containerização-ff7a18?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orquestração-ff7a18?style=for-the-badge)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-Infraestrutura_Cloud-ff7a18?style=for-the-badge)
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-Kubernetes_Gerenciado-ff7a18?style=for-the-badge)
+
+→ Operação de **ambientes escaláveis**, **deploy de sistemas de IA**, **observabilidade**, **custo eficiente** e **alta disponibilidade**.
+
+---
+
+## 🎯 Experiência Recente
+
+Atuação focada em **Supply Chain**, **Dados**, **Arquitetura de Dados (DataOps, MLOps)** e **IA Operacional**, aplicando **Machine Learning**, **LLMs** e **Automação** para transformar eventos e dados brutos em **decisões acionáveis**.
+
+Experiência sólida na construção de **dashboards estratégicos**, **sistemas de suporte à decisão**, **modelagem preditiva** e **otimização logística**, com soluções implantadas em **arquiteturas de microsserviços**, **Docker/Kubernetes** e **AWS (EC2, EKS)**. Forte uso de **APIs de IA (ChatGPT, Google Gemini)** para automação cognitiva e inteligência aplicada ao negócio.
 
 
 # Elias Andrade 🚀
