@@ -243,13 +243,6 @@ Aqui estão os principais treinamentos e cursos que fiz recentemente - Ao total 
 
 ---
 
-
-### 📈 Estatísticas no GitHub
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
-
-
 ### 🌟 Conheça mais sobre mim!  
 Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e momentos em família: [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
 
