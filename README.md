@@ -1,7 +1,5 @@
 # 🛠️ Portfólio Profissional e Apresentação Técnica 
 
-<img width="589" height="338" alt="chrome_n4cXjXTfrk" src="https://github.com/user-attachments/assets/599b0a02-ba33-4d83-9eae-d2d86784a08e" />
-
 ![DevOps Badge](https://img.shields.io/badge/DevOps-Práticas_Ágeis-28a745?style=for-the-badge&logo=devops&logoColor=white)
 ![DataOps Badge](https://img.shields.io/badge/DataOps-Engenharia_de_Dados-28a745?style=for-the-badge&logo=datawrapper&logoColor=white)
 ![AIOps Badge](https://img.shields.io/badge/AIOps-Inteligência_Operacional-28a745?style=for-the-badge&logo=splunk&logoColor=white)
