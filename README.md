@@ -161,6 +161,191 @@ Do dado bruto à decisão em produção: pipelines, observabilidade, escalabilid
 [![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
 
 
+# 🚀 Elias Andrade (chaos4455) | Portfólio Completo de Projetos
+
+Engenharia de Software, Arquitetura de Sistemas, Data Science e Soluções de Inteligência Artificial de Alta Performance.
+
+---
+
+## I. 🧠 Sistemas e Motores de Inteligência Artificial (LLMs & Agentes)
+
+Projetos focados em arquitetura de agentes, RAG avançado, fine-tuning e plataformas de processamento de linguagem e visão.
+
+| Emoji | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 🚀 | [Prometheus-multi-agent-next-gen-api-v5](https://github.com/chaos4455/Prometheus-multi-agent-next-gen-api-v5) | Multi-Agent System API Server v5 - A Plataforma Multi-Agente da Próxima Geração. |
+| 🤖 | [Rainha-Vermelha-V6-POC](https://github.com/chaos4455/Rainha-Vermelha-V6-POC) | Replika Rainha Vermelha - Geração 6: IA de meia geração com capacidades avançadas de raciocínio e interação. |
+| 🖼️ | [Bert-PDF-IMG-Markup](https://github.com/chaos4455/Bert-PDF-IMG-Markup) | PDF Processor: Framework de extração e transformação avançada de dados de PDF para LLMs e LVMs (Visão/Linguagem) e sistemas de RAG. |
+| 🔥 | [fine-tuning-monitoring-performance-LLM](https://github.com/chaos4455/fine-tuning-monitoring-performance-LLM) | Especialista em Fine-Tuning de LLMs, Análise Avançada de IA e Performance Evaluation. |
+| 📊 | [Prometheus-Super-Multi-Agent-AI-Responses-Demo-Showcase](https://github.com/chaos4455/Prometheus-Super-Multi-Agent-AI-Responses-Demo-Showcase) | Showcase de avaliação de IA agentica em grande escala (mais de 30 mil linhas de código de avaliação). |
+| 🌟 | [LLM-Advanced-RAG-Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio) | Implementação de RAG com Python e SQLite on scratch (demonstração de domínio prático nativo). |
+| 🤖 | [NLP-RSE-Retail-Sentiment-Engine](https://github.com/chaos4455/NLP-RSE-Retail-Sentiment-Engine) | Emotion Engine: API de NLP para detecção/triagem de emoção, sentimento e intenção. |
+| 🧠 | [Replika-AI-Agentic-Tutor](https://github.com/chaos4455/Replika-AI-Agentic-Tutor) | RAI Agentic Tutor: Seu tutor pessoal com IA para aprendizado infinito e sob medida. |
+| ⚙️ | [Replika-Code-Audit-Solution](https://github.com/chaos4455/Replika-Code-Audit-Solution) | Replika AI - Auditor de Lógica de Negócios utilizando IA e LLM. |
+| 🌟 | [GhostCoder](https://github.com/chaos4455/GhostCoder) | Empower Your Team with Artificial Intelligence Working Behind the Scenes. |
+| 🇧🇷 | [GhostCoderBR](https://github.com/chaos4455/GhostCoderBR) | Repositório complementar do projeto GhostCoder. |
+| 🚀 | [Mychat-IA-Chat-Assistant](https://github.com/chaos4455/Mychat-IA-Chat-Assistant) | A Plataforma de IA que Impulsiona sua Empresa com o Poder do Google Gemini. |
+| 🌍 | [Prometheus-V6-Core-Multi-Domain-MAS-Front-End-Showcase](https://github.com/chaos4455/Prometheus-V6-Core-Multi-Domain-MAS-Front-End-Showcase) | Prometheus Multi-Agent AI Ecosystem (Front-end e Back-end de Copilot Corporativo). |
+| 🖼️ | [Capture-Pro-Product-Capture-AI-Powered](https://github.com/chaos4455/Capture-Pro-Product-Capture-AI-Powered) | Solução para captura de produtos com suporte de IA. |
+| 📝 | [doc-generator-ai](https://github.com/chaos4455/doc-generator-ai) | Doc Generator AI: Aplicação que automatiza a geração de manuais técnicos detalhados utilizando inteligência artificial. |
+| 🤖 | [projeto-contagem-de-tokens](https://github.com/chaos4455/projeto-contagem-de-tokens) | Projeto de Geração de Embeddings com IA para RAG (Engine de geração e enriquecimento de contexto). |
+| 🎨 | [Gemini-img-doc-gen](https://github.com/chaos4455/Gemini-img-doc-gen) | Analisa código fonte e projetos para criar imagens com a documentação (formato PNG). |
+| 📝 | [Ai-Job-Tech-Test-Gen](https://github.com/chaos4455/Ai-Job-Tech-Test-Gen) | Sistema de geração de testes para entrevistas técnicas com IA. |
+| 🔊 | [Ai-Data_Agent_Analysis](https://github.com/chaos4455/Ai-Data_Agent_Analysis) | Automação agentica de análise de dados com export em relatório de áudio (TTS). |
+| 📄 | [sitema-contravo-v7-base-perfeito-original](https://github.com/chaos4455/sitema-contravo-v7-base-perfeito-original) | Showcase protótipo de sistema de análise de contratos com IA. |
+| 📄 | [Analise-Contrato-POC-AI](https://github.com/chaos4455/Analise-Contrato-POC-AI) | Sistema Streamlit + Google Gemini para análise de contratos. |
+| 🎓 | [projeto-gradua--o-machine-learning](https://github.com/chaos4455/projeto-gradua--o-machine-learning) | Projeto showcase de validação de conhecimento aplicado a ML (pipeline completo com MLOps). |
+| 🤖 | [Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation](https://github.com/chaos4455/Auto-BI-auto-ML-LLM-Gen-Gemini-2-Automation) | Foco em Prophet, BI e DI explicado com IA (Gemini 2). |
+| 👁️ | [Img2vid-Br-Front-End](https://github.com/chaos4455/Img2vid-Br-Front-End) | Implementação nativa do zero de uma solução Img2Video (pipeline 100% funcional de IA generativa). |
+| 📈 | [Streamlit-IA-Projects-2024](https://github.com/chaos4455/Streamlit-IA-Projects-2024) | Portfólio de mais de 200 projetos de IA/LLM prototipados com Streamlit. |
+| 🤖 | [Prometheus-Chatbot-WEB-Interface](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface) | Web Interface para o Copiloto Corporativo "Prometheus" (React + Tailwind CSS). |
+| 🧠 | [Sistema-Estoque-IA](https://github.com/chaos4455/Sistema-Estoque-IA) | Protótipo conceitual de sistema de análise de dados de estoque com IA e ML. |
+
+---
+
+## II. ⚙️ Data Engineering, Arquitetura e MLOps
+
+Projetos que definem a arquitetura, processamento de dados, MLOps e motores proprietários de dados de alta performance.
+
+| Emoji | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 📊 | [Table-Stream-Engine-POC](https://github.com/chaos4455/Table-Stream-Engine-POC) | Table Stream Query Engine (TSQE) PoC: Arquitetura de Dados de Próxima Geração (DuckDB/PyArrow). |
+| 💡 | [LightVec](https://github.com/chaos4455/LightVec) | Banco de dados vetorial proprietário. |
+| 🚀🚀 | [High-Performance-Vector-Profiler-Gen-and-Match](https://github.com/chaos4455/High-Performance-Vector-Profiler-Gen-and-Match) | Framework e Engine para Geração de Dados Sintéticos e testes de Computação Vetorial de Alta Performance. |
+| ⚡ | [Replika-MB](https://github.com/chaos4455/Replika-MB) | Replika AI Message Broker - High-Performance Async Broker & Analytics v0.3.1.2 (FastAPI/Python). |
+| 🚀 | [projeto-message-broker-replika-ai-v1](https://github.com/chaos4455/projeto-message-broker-replika-ai-v1) | Replika Message Broker - Replika AI Solutions (Versão inicial). |
+| ✨ | [MLops-Demo-Pipeline-MLflow-Prefect](https://github.com/chaos4455/MLops-Demo-Pipeline-MLflow-Prefect) | Tech Demo Showcase Pipeline de dados modular MLOps (MLflow/Prefect). |
+| ⛽ | [projeto-ml-consumo-combustivel](https://github.com/chaos4455/projeto-ml-consumo-combustivel) | Projeto completo de MLOps: do dado ao modelo, API e dashboard em tempo real de análise de consumo de combustível. |
+| 🌌 | [Cognitive-Neural-Vector-Embeedings-Clusters-Visualization-Heathmap](https://github.com/chaos4455/Cognitive-Neural-Vector-Embeedings-Clusters-Visualization-Heathmap) | Cérebro de Vetores: Uma Nova Fronteira na IA Cognitiva (Dataviz de embeddings). |
+| 🚀 | [GraphNLP](https://github.com/chaos4455/GraphNLP) | Projeto de Visualização 3D de Clusters de Palavras (Dataviz para vetores, embeddings, IA/LLM). |
+| 📈 | [3D-Data-Viz](https://github.com/chaos4455/3D-Data-Viz) | Portfólio de visualização de dados 3D avançada. |
+
+---
+
+## III. 📦 Supply Chain, Logística e Análise de Risco
+
+Sistemas e estudos de caso focados em otimização de estoque, forecasting, BI e insights de crédito e risco.
+
+| Emoji | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 📦 | [Otimiza-Estoque-APP-V16-Full](https://github.com/chaos4455/Otimiza-Estoque-APP-V16-Full) | Otimiza Estoque v16: Transforme Sua Logística com Inteligência e Precisão (Sistema completo). |
+| 🚀 | [Otimiza-Estoque-APP-V12-Full](https://github.com/chaos4455/Otimiza-Estoque-APP-V12-Full) | Otimiza Estoque v12: A Revolução da Logística Inteligente. |
+| 📦 | [Otimiza-Estoque-saas-DEMO](https://github.com/chaos4455/Otimiza-Estoque-saas-DEMO) | Elias Andrade - Otimiza Estoque (Demo SaaS). |
+| 🏛️ | [Athena-Credir-Risk-Engine](https://github.com/chaos4455/Athena-Credir-Risk-Engine) | Dashboard de crédito e risco RevOps para Supply Chain e Commercial Insights. |
+| 🚜 | [Agro-Supply-Chain](https://github.com/chaos4455/Agro-Supply-Chain) | Estudo de caso otimização de estoque em empresa do ramo agropeças. |
+| 🗓️ | [Prophet-portfolio](https://github.com/chaos4455/Prophet-portfolio) | Showcase de Supply Chain e Forecasting de demanda com Prophet. |
+| 🗺️ | [Codebase-Supply-Chain-Agro-Project-1Y](https://github.com/chaos4455/Codebase-Supply-Chain-Agro-Project-1Y) | Showcase roadmap e Data Viz dos artefatos do projeto de Supply Chain. |
+| 📉 | [Estoque-Heathmap-Analysis](https://github.com/chaos4455/Estoque-Heathmap-Analysis) | Plataforma de análise da saúde do estoque (Heatmap). |
+| 💸 | [PIX-payments-heathmap](https://github.com/chaos4455/PIX-payments-heathmap) | Projeto de análise de dados: padrão de pagamentos via PIX. |
+
+---
+
+## IV. 💻 Desenvolvimento Backend & Full Stack
+
+APIs, serviços, arquiteturas completas de software e soluções Blockchain.
+
+| Emoji | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 🎮 | [projeto-vectorial-profiler](https://github.com/chaos4455/projeto-vectorial-profiler) | Vectorial Profiler: Sistema completo de matchmaking (Similaridade Vetorial, PCA, Clustering FAISS, Visualizações 3D). |
+| 🔗 | [MyChain-Blockchain-Boilerplate](https://github.com/chaos4455/MyChain-Blockchain-Boilerplate) | MyChain: Uma Plataforma Blockchain Modular para Soluções Empresariais. |
+| 🌟 | [Blockchain-DPOS-MVP](https://github.com/chaos4455/Blockchain-DPOS-MVP) | NEXT GEN BLOCKCHAIN DPOA 3KTPM: Blockchain proprietária completa em Python/FastAPI (2500 tpm). |
+| 💰 | [FastAPI-Tokenomics-RESTful-API](https://github.com/chaos4455/FastAPI-Tokenomics-RESTful-API) | API de Tokenomics em Fast API. |
+| 📈 | [Gemini-Deskop-LVM-APP](https://github.com/chaos4455/Gemini-Deskop-LVM-APP) | Projeto conceitual usando Google Gemini para análise de charts de mercado (LVM). |
+| 💻 | [WEBdev-Front-Back-End-Portfolio](https://github.com/chaos4455/WEBdev-Front-Back-End-Portfolio) | Portfólio 2023/2024: Conhecimento Full Stack em sistemas (Front, Back e Deploy com Kubernetes). |
+| 💡 | [projetojumpad](https://github.com/chaos4455/projetojumpad) | Projeto demo showcase de uma API modular Python Fast API. |
+| 👛 | [MyChain-Wallet](https://github.com/chaos4455/MyChain-Wallet) | Portfólio de UI/UX para interface de web application de wallet para cripto e tokenomics (React e Meteor). |
+| 🎬 | [TypeScrypt-Netflix-Login-MVP](https://github.com/chaos4455/TypeScrypt-Netflix-Login-MVP) | Projeto demo showcase: página de login Netflix em Node e TypeScript (MVP). |
+| 🌐 | [projeto-api-express-node-v1](https://github.com/chaos4455/projeto-api-express-node-v1) | Projeto prova de conceito básica usando Node e Express para API/RPA. |
+
+---
+
+## V. 🔒 Segurança, Criptografia e CyberSec
+
+Soluções focadas em proteção de dados, segurança de credenciais e triagem de eventos de TI/Cybersegurança.
+
+| Emoji | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 🛡️ | [Advances-Password-Vault](https://github.com/chaos4455/Advances-Password-Vault) | Advanced Password Vault: Secure CLI For Credential Storage Architecture (POC/MVP). |
+| ☁️ | [POC-MVP-Secure-Uploader-S3-Object-Storage](https://github.com/chaos4455/POC-MVP-Secure-Uploader-S3-Object-Storage) | Engine de alto throughput para upload S3 com Zero Knowledge Data Storage (criptografia on the fly). |
+| 🧠 | [CyberSEC-NLP-Event-Classifier-Engine](https://github.com/chaos4455/CyberSEC-NLP-Event-Classifier-Engine) | CyberSEC-NLP-Event-Classifier-Engine: Multi-head IT and Cybersec event scoring and triage engine. |
+| 🔒 | [SecurAI](https://github.com/chaos4455/CyberSEC-NLP-Event-Classifier-Engine) | Plataforma Inteligente de Análise de Risco de Eventos de Segurança. |
+| 🔑 | [encrypt-message-GUI-V2](https://github.com/chaos4455/encrypt-message-GUI-V2) | Projeto showcase de criptografia de mensagem usando chave pública e privada (GUI). |
+| 🔐 | [py-crypt-messages](https://github.com/chaos4455/py-crypt-messages) | GUI de encriptar mensagens em Python. |
+| 📁 | [Py-Crypt-Files](https://github.com/chaos4455/Py-Crypt-Files) | GUI que criptografa arquivos com Python. |
+| 🔑 | [passgen](https://github.com/chaos4455/passgen) | Gerador de password com Python. |
+
+---
+
+## VI. 🛠️ DevOps, Infraestrutura & Automação
+
+Gestão de infraestrutura como código (IAC), CI/CD, IaOps, e migração de ambientes legados.
+
+| Emoji | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 🤖 | [AI-Infra-Automation-Toolbox](https://github.com/chaos4455/AI-Infra-Automation-Toolbox) | Console App CLI que gera material de IAC (Docker, K8s, Cloud) para Terraform/Ansible. |
+| 🌟 | [Google-Gemini-IA-IAC-Automation-Gen-Portfolio](https://github.com/chaos4455/Google-Gemini-IA-IAC-Automation-Gen-Portfolio) | Solução de IAC Automation com Google Gemini. |
+| ☸️ | [Kubernetes-MicroService-Archtect-Portfolio](https://github.com/chaos4455/Kubernetes-MicroService-Archtect-Portfolio) | Portfólio de Kubernetes com foco em auto scaling. |
+| ⚙️ | [Argo-CD-Deployments-flows](https://github.com/chaos4455/Argo-CD-Deployments-flows) | Showcase de CI/CD e GitOps com ArgoCD. |
+| 📦 | [Devops-2024](https://github.com/chaos4455/Devops-2024) | Portfólio DevOps 2024 (migração Docker, RPA, Kubernetes, GitOps, ArgoCD). |
+| 🛠️ | [Redmine-Upgrade-Project](https://github.com/chaos4455/Redmine-Upgrade-Project) | Projeto de Migração e Atualização do Redmine em Ambiente de Produção Legado. |
+| 📖 | [RabbitMQ-AI-Generated-Ebook](https://github.com/chaos4455/RabbitMQ-AI-Generated-Ebook) | Documentação do RabbitMQ gerada 100% por um pipeline de IA salvo via GitOps. |
+| 🛠️ | [ai-it-help](https://github.com/chaos4455/ai-it-help) | Showcase de conhecimento em Infra, IaOps e GitOps. |
+| 📊 | [chaos4455-Prometheus-Dash-Module-Template](https://github.com/chaos4455/chaos4455-Prometheus-Dash-Module-Template) | Showcase de projetos em dashboards, team time data stream e real time data statistics (Prometheus/Dash). |
+
+---
+
+## VII. 📜 Portfólio Pessoal, Consultoria e Roadmaps
+
+Documentação de carreira, consultoria, propriedade intelectual, arquitetura de sistemas e histórico de conhecimento.
+
+| Emoji | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 🧠 | [Portfolio-Arquitetura-Software-Sistemas-IA-Back-End-2024-2025](https://github.com/chaos4455/Portfolio-Arquitetura-Software-Sistemas-IA-Back-End-2024-2025) | Portfólio de projetos de arquitetura de IA e Back-End (2024-2025). |
+| 🎨 | [portfolio](https://github.com/chaos4455/portfolio) | Portfólio de projetos de desenvolvimento Back-End e Front-End. |
+| 📅 | [2024-python-dev-review-history](https://github.com/chaos4455/2024-python-dev-review-history) | Showcase de roadmap dev 2024/2025 (1 milhão de linhas de código). |
+| 🛣️ | [2010-2024-Tech-Roadmap](https://github.com/chaos4455/2010-2024-Tech-Roadmap) | Meu Tech Roadmap: Jornada Pessoal e Profissional (2010-2024). |
+| 📈 | [Roadmaps-Diagramas-Carreira-2025](https://github.com/chaos4455/Roadmaps-Diagramas-Carreira-2025) | Roadmaps, Diagramas e Fluxogramas de Carreira 2025. |
+| 📐 | [Diagramas-Arquitetura-Sistemas-IA](https://github.com/chaos4455/Diagramas-Arquitetura-Sistemas-IA) | Portfólio pessoal de arquitetura de sistemas de IA e LLMs. |
+| 🏛️ | [architeture-diagrams](https://github.com/chaos4455/architeture-diagrams) | Portfólio Clean Architecture e padrões de projetos. |
+| 🐍 | [Python-Dev-BE-AI-ML-LLM-DEVOPS](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS) | Portfólio de 2024 de Python-Dev-BE-AI-ML-LLM-DEVOPS. |
+| 💻 | [Projetos-DEV](https://github.com/chaos4455/Projetos-DEV) | Portfólio de projetos DEV 2024. |
+| 💼 | [o2-data-products](https://github.com/chaos4455/o2-data-products) | Consultoria: Repositório de O2 Data Products. |
+| 🚀 | [O2-Data](https://github.com/chaos4455/O2-Data) | Portfólio comercial O2 Data: projetos e consultoria. |
+| 💰 | [TABELA-PRECOS](https://github.com/chaos4455/TABELA-PRECOS) | Tabela de preços de consultoria em dados, IA e ML. |
+| 📈 | [Data-Projects-Portfolio](https://github.com/chaos4455/Data-Projects-Portfolio) | Projetos de dados de 2024 (crédito, risco, demanda, etc.). |
+| 📄 | [CV](https://github.com/chaos4455/CV) | Currículos: Repositório de documentos de carreira. |
+| 📋 | [Produtos-PI-Portfolio](https://github.com/chaos4455/Produtos-PI-Portfolio) | Portfólio de Propriedades Intelectuais (apenas informação sobre produtos finalizados, sem código fonte). |
+| 💡 | [Frameworks-Suits-Portfolio](https://github.com/chaos4455/Frameworks-Suits-Portfolio) | Portfólio de frameworks e propriedades intelectuais. |
+| 📜 | [Certifica-es](https://github.com/chaos4455/Certifica-es) | Portfólio da minha jornada de TI e ITSM. |
+| 🏗️ | [Projetos](https://github.com/chaos4455/Projetos) | Portfólio de projetos e consultoria na área de infraestrutura. |
+| 📝 | [Forms](https://github.com/chaos4455/Forms) | Formulários para auditoria de maturidade de empresas. |
+| 🏅 | [Treinamentos-2024](https://github.com/chaos4455/Treinamentos-2024) | Certificados de treinamento DevOps 2024. |
+| 🫂 | [HF](https://github.com/chaos4455/HF) | Portfólio de projetos no Hugging Face. |
+| 🔬 | [SOA-LLM-RESEARCH-Q4-2024](https://github.com/chaos4455/SOA-LLM-RESEARCH-Q4-2024) | Portfólio de pesquisa de IA aplicada e LLM (2023, 2024, 2025). |
+| 🫂 | [Huggingface-Portfolio](https://github.com/chaos4455/Huggingface-Portfolio) | Hugging Face Portfolio – Projetos IA e Prototipagem Rápida. |
+| 📚 | [Conhecimento](https://github.com/chaos4455/Conhecimento) | Repositório de conhecimento (2016/2018), demonstrando histórico de compartilhamento. |
+| ⏳ | [Tech_milestones](https://github.com/chaos4455/Tech_milestones) | Tech Milestones: Área de TI desde 2010 até 2025. |
+| 🖼️ | [WEB-UI-UX-Mockups](https://github.com/chaos4455/WEB-UI-UX-Mockups) | Portfólio de UI e UX, interfaces para sistemas web (antigo de 2024). |
+
+---
+
+## VIII. 🛠️ Ferramentas e Utilities de Desenvolvimento
+
+Ferramentas específicas para automação, prototipagem rápida, análise de código e tarefas operacionais.
+
+| Emoji | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 🎉 | [Streamlit-script-launcher](https://github.com/chaos4455/Streamlit-script-launcher) | Streamlit Script Launcher: Interface gráfica (PyQt5) para drag and drop e execução de scripts Streamlit. |
+| 📅📊 | [PY-Dev-Timeframe-Heatmap-Generator](https://github.com/chaos4455/PY-Dev-Timeframe-Heatmap-Generator) | Desvende a Cronologia da Sua Maestria em Python com Mapas de Calor Incandescentes. |
+| 🌡️ | [Py-Dev-History-DATA-VIZ](https://github.com/chaos4455/Py-Dev-History-DATA-VIZ) | Gerador de mapa de calor para ambiente de desenvolvimento/código fonte (estilo GitHub). |
+| 🚀✨ | [NLP-TOOLKIT-Model-Downloader](https://github.com/chaos4455/NLP-TOOLKIT-Model-Downloader) | Seu Assistente Inteligente para Preparar o Ambiente NLP! |
+| 💻 | [gemini2-powershell-command-gen](https://github.com/chaos4455/gemini2-powershell-command-gen) | Projeto Google Gemini + Streamlit: criação de scripts Powershell. |
+| 🧹 | [Windows-Dev-Env-Cleaner-Automation](https://github.com/chaos4455/Windows-Dev-Env-Cleaner-Automation) | Comando de limpeza e automação para ambiente de desenvolvimento Windows. |
+| 🔄 | [python-pdf-converter](https://github.com/chaos4455/python-pdf-converter) | Conversor de PDF em Python. |
+| 🎭 | [TrocaRosto](https://github.com/chaos4455/TrocaRosto) | Sistema de face swap criado em 2018 (antes da popularização da IA generativa). |
+
+
+
 ### Meu Portfolio 💼
 
 [![Status](https://img.shields.io/badge/Status-Atualizado-green)](https://img.shields.io/badge/Status-Atualizado-green)
